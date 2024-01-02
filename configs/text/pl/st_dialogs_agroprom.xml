@@ -2,2347 +2,2347 @@
 <string_table>
 
 	<string id="agr_diggers_start_dialog_0">
-		<text>Yeah? What are you doing here?</text>
+		<text>Tak? Co tu robisz?</text>
 	</string>
 
 	<string id="agr_diggers_start_dialog_1">
-		<text>I'm here for your leader. I've got important information for him.</text>
+		<text>Jestem tutaj dla twojego przywódcy. Mam dla niego ważne informacje.</text>
 	</string>
 
 	<string id="agr_diggers_start_dialog_2">
-		<text>Alright. Leave your weapons and head on in. You'll get them back once you leave.</text>
+		<text>Dobrze. Zostaw swoją broń i wejdź. Otrzymasz ją z powrotem, gdy wyjdziesz.</text>
 	</string>
 
 	<string id="agr_diggers_start_dialog_3">
-		<text>Suits me.</text>
+		<text>Pasuje mi.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_0">
-		<text>Hello. Speak your mind.</text>
+		<text>Witaj. Mów, co masz na myśli.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_1">
-		<text>Men, I'm no bearer of good news. Mercenaries are on their way to get you. You'd better lay low for now.</text>
+		<text>Panowie, nie jestem nosicielem dobrych wiadomości. Najemnicy są w drodze, aby was złapać. Lepiej teraz się ukryjcie.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_2">
-		<text>The hell are you on about? What mercenaries, and what do they want? Who are you anyway?</text>
+		<text>O co ci chodzi? Jakich najemników, i czego oni chcą? A ty kim właściwie jesteś?</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_3">
-		<text>I'm just an ordinary stalker. I just heard that there's a scientific complex somewhere at Agroprom and decided to have a look. I overheard some negotiations along the way, likely mercenaries. Their objective seems to be the case you discovered.</text>
+		<text>Jestem zwykłym stalkerem. Słyszałem, że gdzieś na Agropromie jest kompleks naukowy i postanowiłem to sprawdzić. Po drodze podsłuchałem jakieś negocjacje, prawdopodobnie najemników. Ich celem wydaje się być znaleziona przez was walizka.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_4">
-		<text>Well, would you look at that... How many of them are there? What else do you know? And how'd you manage to pick up those negotiations if the mercenaries are pros in their field, who almost never leave any traces? And they went on an unencrypted frequency just like that? To me, stalker, all of this sounds a bit too good to be true.</text>
+		<text>No nieźle... Ile ich jest? Co jeszcze wiesz? I jak udało ci się przechwycić te negocjacje, jeśli najemnicy są profesjonalistami w swojej dziedzinie, którzy prawie nigdy nie zostawiają śladów? I jeszcze nadawali na niezaszyfrowanej częstotliwości? Dla mnie, stalkerze, to wszystko brzmi trochę za dobrze.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_5">
-		<text>I have no reason to lie to you. I don't know why they operated on that frequency; they were probably in a hurry. It was just two groups, likely three to four men each. They'll be here in an hour or less.</text>
+		<text>Nie mam powodu, by cię okłamywać. Nie wiem, dlaczego działali na tej częstotliwości; prawdopodobnie się spieszyli. Były tylko dwie grupy, prawdopodobnie trzy do czterech mężczyzn każda. Będą tu w ciągu godziny lub krócej.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_6">
-		<text>Damn it. Never been this knee-deep in shit before... You don't know who's contracting them?</text>
+		<text>Cholera. Jeszcze nigdy nie byłem tak głęboko w gównie... Wiesz, kto ich zatrudnia?</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_7">
-		<text>No. They only discussed their objective. Your men didn't share the info with anyone, did they?</text>
+		<text>Nie. Omawiali tylko swój cel. Wasza ekipa nie podzieliła się informacjami z nikim, prawda?</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_8">
-		<text>Nah. My men wouldn't go yapping about it left and right. Seems to me it's those bastards that separated from us - we had some real disagreements back in the day. What interests me is the identity of the contractor... Perhaps our former "friends" were the ones who put the hit on us and they might've been the ones sharing the info, hence the mercenaries appearing out of nowhere with their yet-unknown contractor.</text>
+		<text>Nie. Moi ludzie nie obgadywaliby tego na prawo i lewo. Wydaje mi się, że to ci drańskie separatyści od nas - mieliśmy z nimi poważne nieporozumienia. Interesuje mnie tożsamość zleceniodawcy... Może to nasi byli "przyjaciele" zlecił na nas ten atak i to oni mogli podzielić się informacjami, stąd nagle najemnicy z nieznanym zleceniodawcą.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_9">
-		<text>I have no interest in the contractor. I only came here to warn you, and I deserve some sort of reward for that. I'll be heading far away from here, since I'm not looking for trouble with the mercs.</text>
+		<text>Nie interesuje mnie zleceniodawca. Przyszedłem tutaj tylko, aby cię ostrzec, i zasługuję na jakąś nagrodę za to. Będę się trzymał z dala stąd, bo nie szukam kłopotów z najemnikami.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_10">
-		<text>Yeah, here you go. Now step out. I need to discuss some details with my comrade.</text>
+		<text>Tak, masz rację. Teraz wyjdź. Muszę omówić kilka szczegółów z moim towarzyszem.</text>
 	</string>
 
 	<string id="agr_diggers_leader_dialog_11">
-		<text>Bye.</text>
+		<text>Do widzenia.</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_0">
-		<text>Oh, you again. What do you need?</text>
+		<text>O, to znowu ty. Czego potrzebujesz?</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_1">
-		<text>Hey, what are you doing here? Your men are out there getting torn to pieces!</text>
+		<text>Hej, co ty tu robisz? Twoi ludzie są tam rozrywani na strzępy!</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_2">
-		<text>My boys will handle it just fine. They're experienced!</text>
+		<text>Moi chłopcy poradzą sobie świetnie. Są doświadczeni!</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_3">
-		<text>Ten "experienced" men standing up to a merc platoon? Yeah, right.</text>
+		<text>Dziesięciu "doświadczonych" mężczyzn przeciwko plutonowi najemników? Tak, jasne.</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_4">
-		<text>Got anything better? We can't leave the camp either - they'll shoot us in the back and call it a day.</text>
+		<text>Masz coś lepszego? Nie możemy też opuścić obozu - zastrzelą nas w plecy i nazwą to dniem.</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_5">
-		<text>Come with me. We'll flank 'em and help your boys gain the upper hand.</text>
+		<text>Chodź ze mną. Obejdziemy ich i pomożemy twoim chłopcom zyskać przewagę.</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_6">
-		<text>I can't. My task is to remain here!</text>
+		<text>Nie mogę. Moim zadaniem jest tu zostać!</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_7">
-		<text>Then sit here, you sleazy rat. I'll go help your men. Can't stand your kind...</text>
+		<text>To siedź tutaj, ty śliski szczurze. Pójdę pomóc twoim ludziom. Nie znoszę twojego rodzaju...</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_8">
-		<text>Fine, damn it! Let's go... Can't even imagine what they're going through.</text>
+		<text>Dobrze, do cholery</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_9">
-		<text>Here's the plan: you go down while I head onto the rooftop. I'll cover you from above, okay?</text>
+		<text>Oto plan: ty idziesz na dół, a ja wchodzę na dach. Będę cię osłaniał z góry, ok?</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_10">
-		<text>Good idea. I'm off!</text>
+		<text>Dobry pomysł. Lecę!</text>
 	</string>
 
 	<string id="agr_diggers_volodya_dialog_11">
-		<text>Let's go!</text>
+		<text>Chodźmy!</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_leader_0">
-		<text>Stalker, there aren't many of us left after the collapse. Will you help? Your reward will be handsome!</text>
+		<text>Stalkerze, po upadku nas nie zostało wielu. Pomożesz? Twoja nagroda będzie hojna!</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_leader_1_1">
-		<text>No, thanks. I'm going my own way. I'd like to steer clear of problems and maintain relations with both sides.</text>
+		<text>Nie, dzięki. Pójdę swoją drogą. Chciałbym uniknąć problemów i utrzymać dobre stosunki z obiema stronami.</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_leader_1_2">
-		<text>Oh, what the hell. I'll help! [...]</text>
+		<text>A, do diabła. Pomogę! [...]</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_leader_2">
-		<text>Alright, man, do your thing. It was kind of you to warn us. Good luck to you.</text>
+		<text>W porządku, koleś, rób swoje. Miło z twojej strony, że nas ostrzegłeś. Powodzenia.</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_leader_3">
-		<text>I wish you the best.</text>
+		<text>Życzę ci wszystkiego najlepszego.</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_volodya_0">
-		<text>Thanks for warning us, stalker. It would've been great if you'd helped with the mercs too!</text>
+		<text>Dzięki za ostrzeżenie, stalkerze. Byłoby świetnie, gdybyś też pomógł z najemnikami!</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_volodya_1_1">
-		<text>No, thanks. I'm going my own way. I'd like to avoid problems and maintain relations with both sides.</text>
+		<text>Nie, dzięki. Pójdę swoją drogą. Chciałbym uniknąć problemów i utrzymać dobre stosunki z obiema stronami.</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_volodya_1_2">
-		<text>Alright, I'll help you. [...]</text>
+		<text>W porządku, pomogę ci. [...]</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_volodya_2">
-		<text>Alright, man, do your thing. It was kind of you to warn us. Good luck to you.</text>
+		<text>W porządku, koleś, rób swoje. Miło z twojej strony, że nas ostrzegłeś. Powodzenia.</text>
 	</string>
 
 	<string id="agr_diggers_dialog_final_volodya_3">
-		<text>You too.</text>
+		<text>Tobie też.</text>
 	</string>
 
 	<string id="agr_diggers_weapons_dialog_0">
-		<text>Hey, don't forget your weapon.</text>
+		<text>Hej, nie zapomnij o swojej broni.</text>
 	</string>
 
 	<string id="agr_diggers_weapons_dialog_1">
-		<text>Thanks.</text>
+		<text>Dzięki.</text>
 	</string>
 
 	<string id="agr_diggers_start_robbery_dialog_0">
-		<text>Here's the deal: we saw a body lying in a Fruit Punch down below. Can barely even call it a body; all that's left are bones. There's a gun next to it, still in mint condition. Get it for us and then go your own way. Try screwing us over or coming back without it and that'll be your last breath. We wouldn't mind if you kick the bucket down there either. Everything clear?</text>
+		<text>Oto rzecz: widzieliśmy ciało leżące w owocowym punczu na dole. Można by go nawet nie nazwać ciałem; zostały tylko kości. Obok leży pistolet, wciąż w idealnym stanie. Zdobądź go dla nas, a potem idź swoją drogą. Spróbuj nas oszukać lub wróć bez niego, a będzie to twój ostatni oddech. Nie przeszkadzałoby nam, gdybyś kopnął w kalendarz tam na dole. Wszystko jasne?</text>
 	</string>
 
 	<string id="agr_diggers_start_robbery_dialog_1">
-		<text>Can I just take my gun back?</text>
+		<text>Czy mogę po prostu zabrać swoją broń?</text>
 	</string>
 
 	<string id="agr_diggers_start_robbery_dialog_2">
-		<text>How about taking a hike? We'll drop you a rifle and some ammo once you descend. Quit sweating it out - it's clear down there.</text>
+		<text>A może ty weźmiesz sobie spacer? Zrzucimy ci karabin i trochę amunicji, jak zejdziesz. Przestań się pocić - tam na dole jest czysto.</text>
 	</string>
 
 	<string id="agr_diggers_start_robbery_dialog_3">
-		<text>Screw you.</text>
+		<text>Spadajcie.</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_0">
-		<text>Over here!</text>
+		<text>Tu!</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_1">
-		<text>What happened? I heard a distress signal.</text>
+		<text>Co się stało? Słyszałem sygnał SOS.</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_2">
-		<text>Hey, stalker. Name's Red. My friend, if I can call him that, needs help. He burned his legs in a Fruit Punch in the tunnels, and he needs help getting out. Could you help? I'll make it worth your while... Everyone knows me in the Bar.</text>
+		<text>Cześć, stalker. Nazywam się Red. Mój przyjaciel, jeśli mogę go tak nazwać, potrzebuje pomocy. Poparzył nogi w owocowym punczu w tunelach i potrzebuje pomocy, żeby się stąd wydostać. Mógłbyś pomóc? Wynagrodzę ci to... Wszyscy mnie znają w Barze.</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_3">
-		<text>Red? Heard a lot about you. You're one of the few to reach the center of the Zone, is that so?</text>
+		<text>Red? Wiele o tobie słyszałem. Jesteś jednym z nielicznych, który dotarł do centrum Strefy, prawda?</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_4">
-		<text>That's right. And I don't recommend anyone go there. Anyway, we've only got a few minutes left, if we're not too late already. You with me?</text>
+		<text>Tak jest. I nikomu nie polecam tam iść. Tak czy inaczej, zostało nam tylko kilka minut, jeśli jeszcze nie jest za późno. Idziesz ze mną?</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_5_1">
-		<text>Of course. How are we doing this?</text>
+		<text>Oczywiście. Jak to zrobimy?</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_5_2">
-		<text>None of my business. Sorry.</text>
+		<text>Nie moja sprawa. Przepraszam.</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_6">
-		<text>As usual, there are loads of creatures in the tunnels, so we'll make our way to him carefully and provide assistance. Afterwards, you cover us while I take my friend to a doctor.</text>
+		<text>Jak zwykle, w tunelach jest mnóstwo stworzeń, więc będziemy ostrożnie podążać do niego i udzielić pomocy. Potem ty nas osłaniasz, a ja zabiorę mojego przyjaciela do lekarza.</text>
 	</string>
 
 	<string id="agr_stalker_help_sos_dialog_7">
-		<text>Understood. Let's go.</text>
+		<text>Rozumiem. Chodźmy.</text>
 	</string>
 
 	<string id="agr_diggers_final_robbery_dialog_0">
-		<text>So, Olesha, do you have what we agreed on?</text>
+		<text>Więc, Olesza, masz to, co uzgodniliśmy?</text>
 	</string>
 
 	<string id="agr_diggers_final_robbery_dialog_1">
-		<text>Here. Hope you choke on it.</text>
+		<text>Proszę. Mam nadzieję, że się na tym zadławisz.</text>
 	</string>
 
 	<string id="agr_diggers_final_robbery_dialog_2">
-		<text>You run into an anomaly or something?</text>
+		<text>Wpadłeś w anomalię czy coś?</text>
 	</string>
 
 	<string id="agr_diggers_final_robbery_dialog_3">
-		<text>We're even. Give me my equipment and I'll leave, just as agreed.</text>
+		<text>Jesteśmy kwita. Oddaj mi mój sprzęt, a ja odejdę, zgodnie z umową.</text>
 	</string>
 
 	<string id="agr_diggers_final_robbery_dialog_4">
-		<text>Beat it, asshole. And don't show your face again.</text>
+		<text>Spadaj, palancie. I nie pokazuj tu więcej swojej mordy.</text>
 	</string>
 
 	<string id="agr_diggers_final_robbery_dialog_5">
-		<text>Rat bastards.</text>
+		<text>Skurwysyny.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_0">
-		<text>Halt! No entry without a pass!</text>
+		<text>Stop! Wejście tylko z przepustką!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_1_1">
-		<text>I need Dubinin. He promised me work when we met in the Dark Valley.</text>
+		<text>Potrzebuję Dubinina. Obiecał mi pracę, gdy spotkaliśmy się w Ciemnej Dolinie.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_1_2">
-		<text>I need Dubinin. I have important news for him.</text>
+		<text>Potrzebuję Dubinina. Mam dla niego ważne wiadomości.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_2_1">
-		<text>Ah, another recruit. I see, I see... Whatever the case, you're not entering the facility without a pass. I'll tell him you're here, and he'll come out if he sees fit. In the meantime, you be on your way. Don't bother us.</text>
+		<text>Aha, kolejny rekrut. Rozumiem, rozumiem... Tak czy inaczej, bez przepustki nie wejdziesz do obiektu. Powiem mu, że tu jesteś, i jeśli uzna to za stosowne, to wyjdzie. Tymczasem idź sobie. Nie przeszkadzaj nam.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_2_2">
-		<text>And? Am I supposed you let you through for that? Cough up the pass.</text>
+		<text>I co? Myślisz, że przez to cię przepuszczę? Dawaj przepustkę.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_3_1">
-		<text>Got it.</text>
+		<text>Mam ją.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_3_2">
-		<text>I don't have one.</text>
+		<text>Nie mam.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_4">
-		<text>Then get outta here!</text>
+		<text>To spadaj stąd!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_5">
-		<text>What am I gonna do? How do I get a pass?</text>
+		<text>Co ja mam robić? Jak zdobyć przepustkę?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_6">
-		<text>Not my problem. Of course, I could go tell Dubinin he has guests, but that means leaving my post, walking up the stairs... talking to people, which is even worse... and I don't have the energy for that. They give us third-rate meals and it just ain't enough. Tell me, why should I exert myself for some stalker?</text>
+		<text>Nie mój problem. Oczywiście, mógłbym iść powiedzieć Dubininowi, że ma gości, ale to oznacza opuszczenie mojego posterunku, wchodzenie po schodach... rozmawianie z ludźmi, co jest jeszcze gorsze... i nie mam na to siły. Dają nam jedzenie trzeciej klasy i to po prostu nie wystarcza. Powiedz mi, dlaczego miałbym się wysilać dla jakiegoś stalkera?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_7_1">
-		<text>I see. Well, I have some food.</text>
+		<text>Rozumiem. No cóż, mam trochę jedzenia.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_7_2">
-		<text>I'll bring you food.</text>
+		<text>Przyniosę ci jedzenie.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_8_1">
-		<text>Now we're talking. Alright, wait here... if he decides to step out for you, of course. Just stay put and don't meddle.</text>
+		<text>Teraz to co innego. Dobrze, poczekaj tutaj... jeśli zdecyduje się dla ciebie wyjść, oczywiście. Po prostu stój i nie mieszaj.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_8_2">
-		<text>Get going. We'll talk later!</text>
+		<text>Idź. Porozmawiamy później!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_9_1">
-		<text>Okay.</text>
+		<text>Dobrze.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_9_2">
-		<text>Deal.</text>
+		<text>Umowa stoi.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_10">
-		<text>I'm leaving.</text>
+		<text>Odchodzę.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_two_2">
-		<text>Now we're talking. Alright, wait here... if Dubinin decides to come out for you, of course. Just stay put and don't meddle.</text>
+		<text>Teraz to co innego. Dobrze, poczekaj tutaj... jeśli Dubinin zdecyduje się dla ciebie wyjść, oczywiście. Po prostu stój i nie mieszaj.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_first_dialog_two_3">
-		<text>Alright.</text>
+		<text>Dobrze.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_0">
-		<text>What, they're not letting you in?</text>
+		<text>Co, nie wpuszczają cię?</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_1">
-		<text>Yeah, no way in without a pass. I see you have one?</text>
+		<text>Tak, nie ma wejścia bez przepustki. Widzę, że masz jedną?</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_2">
-		<text>I have it. I work with the scientists when I feel like it.</text>
+		<text>Mam. Pracuję z naukowcami, gdy mam na to ochotę.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_3">
-		<text>How is it?</text>
+		<text>Jak tam jest?</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_4">
-		<text>It's okay. The tasks don't always pay that well, but it's nothing hard either, usually bringing in cheap artifacts or mutant hooves... Not even the military touches you when you have a pass, which is a plus.</text>
+		<text>Jest ok. Zadania nie zawsze są dobrze płatne, ale też nie są zbyt trudne, zazwyczaj chodzi o przynoszenie tanich artefaktów lub kopyt mutantów... Nawet wojsko nie rusza cię, gdy masz przepustkę, co jest plusem.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_5">
-		<text>How can I get such a pass?</text>
+		<text>Jak mogę zdobyć taką przepustkę?</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_6">
-		<text>Well, for that, you gotta give the scientists a good show: first, you get rid of your detector and bolts, go in right between a couple of Whirligigs and then... You should see the look on your face - I'm kidding! I got mine in the Bar through negotiating with a drunken scientist. Told him I saw a red Meat Chunk at the Rostok factory, but I couldn't get to it 'cause of anomalies. This was all bullshit, of course, but he fell for it and asked me to take him there; promised me a pass, scientific medkits, and all sorts of detectors. I signed up just for the pass.</text>
+		<text>No cóż, musisz dać naukowcom dobry pokaz: najpierw pozbywasz się detektora i śrub, wchodzisz prosto między Wirówki, a potem... Zobacz na twoją minę - żartuję! Dostałem moją w Barze, negocjując z pijanym naukowcem. Powiedziałem mu, że widziałem czerwony Kawałek Mięsa na fabryce w Rostoku, ale nie mogłem do niego dotrzeć z powodu anomalii. To były oczywiście bzdury, ale on się na to złapał i poprosił mnie, żebym zabrał go tam; obiecał mi przepustkę, naukowe apteczki i wszelkiego rodzaju detektory. Zgłosiłem się tylko dla przepustki.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_7">
-		<text>Did you take him there?</text>
+		<text>Zabrałeś go tam?</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_8">
-		<text>Well, I did. Like I said, there was no red Meat Chunk there. I told him, "Well, sorry. Bandits must've snatched it - they stopped to rest not far from here." He got upset, but I got the pass, and now I can walk into the facility and bring them all sorts of things. They don't let me into the building, of course, but I visit this one guy who can hook you up with work with free stalkers. You should look for him, 'cause they don't let just anyone inside.</text>
+		<text>Tak, zabrałem. Jak mówiłem, nie było tam czerwonego Kawałka Mięsa. Powiedziałem mu: "No cóż, przepraszam. Bandyci musieli go porwać - zatrzymali się niedaleko stąd na odpoczynek." Zasmucił się, ale dostałem przepustkę, a teraz mogę wejść do obiektu i przynosić im różne rzeczy. Oczywiście, nie wpuszczają mnie do budynku, ale odwiedzam jednego gościa, który może cię załatwić pracą z wolnymi stalkerami. Powinieneś go poszukać, bo do środka nie wpuszczają każdego.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_9">
-		<text>Thanks for the info.</text>
+		<text>Dzięki za informacje.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_10">
-		<text>Hey, if you're ever at the Bar, come see me. I see you're not lacking in equipment. You could join our squad - we work for the Barman. Work isn't as easy as what the scientists give, but the pay goes up too. Think about it.</text>
+		<text>Hej, jak będziesz w Barze, wpadnij do mnie. Widzę, że nie brakuje ci sprzętu. Mógłbyś dołączyć do naszej drużyny - pracujemy dla Barmana. Praca nie jest tak łatwa, jak to, co dają naukowcy, ale płaca też rośnie. Pomyśl o tym.</text>
 	</string>
 
 	<string id="agr_stalker_perch_start_dialog_11">
-		<text>Alright. I'll keep that in mind.</text>
+		<text>Dobrze. Będę o tym pamiętać.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_0_1">
-		<text>Oh, my old acquaintance! Hello! What brings you here? Did you accept my proposal to collaborate?</text>
+		<text>O, mój stary znajomy! Cześć! Co cię tu sprowadza? Zaakceptowałeś moją propozycję współpracy?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_0_2">
-		<text>Oh, my old acquaintance! Hello! What brings you here?</text>
+		<text>O, mój stary znajomy! Cześć! Co cię tu sprowadza?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_1_1">
-		<text>We'll discuss that later. Gamzat from the Garbage sent me. He asked me to hand you these papers.</text>
+		<text>Omówimy to później. Gamzat ze Śmietniska przysłał mnie. Poprosił, żebym dał ci te papiery.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_1_2">
-		<text>We'll discuss that later. Gamzat from the Garbage sent me and asked me to hand you these papers. Since I had no time in Dark Valley, I'm also here to return your device.</text>
+		<text>Omówimy to później. Gamzat ze Śmietniska przysłał mnie i poprosił, żebym dał ci te papiery. Ponieważ nie miałem czasu w Ciemnej Dolinie, jestem też tu, żeby zwrócić ci urządzenie.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_2_1">
-		<text>Oh, so quickly! He's doing fine. Since he's entrusted you with delivering the documents, I believe you're already aware of our mutual business? You do realize that this remains strictly between us?</text>
+		<text>Och, tak szybko! On ma się dobrze. Skoro powierzył ci dostarczenie dokumentów, zakładam, że już wiesz o naszym wspólnym interesie? Zdajesz sobie sprawę, że to pozostaje ściśle między nami?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_2_2">
-		<text>Thank you for returning our equipment! Gamzat is doing fine. Since he's entrusted you with delivering the documents, I believe you're already aware of our mutual business? You do realize that this remains strictly between us?</text>
+		<text>Dziękuję za zwrócenie naszego sprzętu! Gamzat ma się dobrze. Skoro powierzył ci dostarczenie dokumentów, zakładam, że już wiesz o naszym wspólnym interesie? Zdajesz sobie sprawę, że to pozostaje ściśle między nami?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_3">
-		<text>Yes, I understand.</text>
+		<text>Tak, rozumiem.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_4">
-		<text>Why did professor Gamzatov not warn us that he'd send you to hand over the research?</text>
+		<text>Dlaczego profesor Gamzatow nie ostrzegł nas, że wyśle cię, aby przekazać badania?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_5">
-		<text>Bad news, I'm afraid: he's dead.</text>
+		<text>Złe wieści, boję się: nie żyje.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_6">
-		<text>Gamzatov, dead? How? What happened?</text>
+		<text>Gamzatow, nie żyje? Jak? Co się stało?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_7">
-		<text>We were testing his theory on sedating mutants with transmuted artifacts. Everything went as planned until the artifact literally dissolved in my hands.</text>
+		<text>Testowaliśmy jego teorię na temat uspokajania mutantów za pomocą przemienionych artefaktów. Wszystko szło zgodnie z planem, aż artefakt dosłownie rozpuścił się w moich rękach.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_8">
-		<text>Goodness. That's... very bad news for all of us. Truly, he was a valuable assistant... and a good friend. It's hard to believe everything went such a way, and now all research in that field faces a great risk. No one knew it better than Gamzatov. I do hope that these documents will provide useful insights and that his death wasn't in vain.</text>
+		<text>Boże. To... bardzo złe wieści dla nas wszystkich. Naprawdę, był cennym asystentem... i dobrym przyjacielem. Trudno uwierzyć, że wszystko potoczyło się w ten sposób, a teraz całe badania w tej dziedzinie stoją przed wielkim ryzykiem. Nikt nie znał się na tym lepiej niż Gamzatow. Mam nadzieję, że te dokumenty dostarczą użytecznych spostrzeżeń i że jego śmierć nie była na próżno.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_9">
-		<text>I share your grief. A good man with a noble goal... I wonder how they'll do without a medic now.</text>
+		<text>Dzielę twój smutek. Dobry człowiek z szlachetnym celem... Ciekawe, jak sobie poradzą teraz bez lekarza.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_10">
-		<text>You know, I could help you with that. I believe the stalkers would be grateful to you if you brought them a new medic.</text>
+		<text>Wiesz, mógłbym ci w tym pomóc. Sądzę, że stalkerzy byliby ci wdzięczni, gdybyś przyprowadził im nowego lekarza.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_11">
-		<text>How?</text>
+		<text>Jak?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_12">
-		<text>One of our workers was recently kicked out of the facility. He may be a slob, but he knows his medicine well... or at least knows how to patch wounds from boar fangs. There is one problem, though...</text>
+		<text>Jeden z naszych pracowników został niedawno wyrzucony z obiektu. Może być niechlujem, ale dobrze zna się na medycynie... przynajmniej wie, jak opatrywać rany po kłach dzika. Jest jednak jeden problem...</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_13">
-		<text>What problem?</text>
+		<text>Jaki problem?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_14">
-		<text>He took to drinking. After his dismissal, he spent his entire payroll on drinks. He slept next to the fence surrounding the facility, begging us to accept him back and causing a ruckus until security kicked him out. What a shame... His liver will fail in a week or two if he continues like that. You should talk to him - he doesn't want to listen to us, his former colleagues, but with you, it's a different story. Perhaps you could convince him to come to his senses and go to the stalker base, as Gamzat once did.</text>
+		<text>Zaczął pić. Po zwolnieniu wydał całą swoją wypłatę na alkohol. Spał obok ogrodzenia otaczającego obiekt, błagając nas, abyśmy go przyjęli z powrotem i wywołując zamieszanie, aż ochrona go wywiozła. Co za szkoda... Jego wątroba za tydzień lub dwa zawiedzie, jeśli będzie kontynuował w ten sposób. Powinieneś z nim porozmawiać - nie chce nas słuchać, swoich byłych kolegów, ale z tobą to inna historia. Może uda ci się przekonać go do opamiętania i pójścia do bazy stalkerów, jak kiedyś zrobił Gamzat.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_15">
-		<text>Yeah, having a medic is vital. I hurt my shoulder a while ago, and I'd be screwed without a doctor. What's his name, and where can I find him?</text>
+		<text>Tak, lekarz jest niezbędny. Jakiś czas temu zraniłem sobie ramię i byłoby krucho bez doktora. Jak on ma na imię i gdzie go znajdę?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_16">
-		<text>Alexander Kireyev. I don't know where he is, but he was last seen to the southwest. Look there.</text>
+		<text>Aleksander Kireyev. Nie wiem, gdzie jest, ale ostatnio widziano go na południowy zachód. Poszukaj tam.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_17">
-		<text>I'll try.</text>
+		<text>Spróbuję.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_18">
-		<text>In the meantime, I'll try to study Gamzatov's notes. You are one of few who know about our research, and I hope we can continue our partnership. Can I count on you? You'll be paid, of course.</text>
+		<text>Tymczasem postaram się przeanalizować notatki Gamzatowa. Jesteś jednym z niewielu, którzy wiedzą o naszych badaniach, i mam nadzieję, że będziemy kontynuować naszą współpracę. Mogę na ciebie liczyć? Oczywiście, zostaniesz opłacony.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_19">
-		<text>I'd say yes.</text>
+		<text>Powiedziałbym, że tak.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_20">
-		<text>Excellent. Then I'll contact you when we have the results.</text>
+		<text>Świetnie. W takim razie skontaktuję się z tobą, gdy będziemy mieli wyniki.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_dialog_21">
-		<text>Until next time.</text>
+		<text>Do następnego razu.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_0">
-		<text>Huh?</text>
+		<text>Hę?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_1">
-		<text>Alex, c'mon, get up!</text>
+		<text>Alex, no dalej, wstawaj!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_2">
-		<text>What... hic! do you... hic! want? Who are you even, huh? Get outta here.</text>
+		<text>Co... hic! chcesz... hic! od mnie? Kim ty w ogóle jesteś, co? Spadaj stąd.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_3">
-		<text>You sure picked a good sleeping place...</text>
+		<text>Wybrałeś sobie dobre miejsce do spania...</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_4">
-		<text>Whatcha want? Get out!</text>
+		<text>Co chcesz? Spadaj!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_5">
-		<text>So you're going to lay here until your liver fails?</text>
+		<text>Więc będziesz tu leżał, aż twoja wątroba zawiedzie?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_6">
-		<text>I'll shoot ya down, ya hear? What do ya want from me? What does it even matter to you?</text>
+		<text>Zastrzelę cię, słyszysz? Czego ode mnie chcesz? Co cię to obchodzi?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_7">
-		<text>I want you to stop burying your precious knowledge with liters of vodka. Yes, you were kicked out, but people still need you. Not the scientists, but ordinary stalkers in need of medical assistance. Let's get to the camp so you can get some sleep and start working there.</text>
+		<text>Chcę, żebyś przestał zakopywać swoją cenną wiedzę litrami wódki. Tak, zostałeś wyrzucony, ale ludzie wciąż cię potrzebują. Nie naukowcy, ale zwykli stalkerzy potrzebujący pomocy medycznej. Jedźmy do obozu, żebyś mógł się przespać i zacząć tam pracować.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_8">
-		<text>I ain't got nothing to do no more... I feel just fine here. I said get out of here! I'll bash your face with my stock!</text>
+		<text>Nie mam już nic do roboty... Czuję się tu dobrze. Powiedziałem wynoś się stąd! Uderzę cię w twarz moją bronią!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_9">
-		<text>What do you say about a drink?</text>
+		<text>Co powiesz na drinka?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_10">
-		<text>Well, why didn't you just say so? Instead of coming here and getting under my skin... C'mon now, pour it up!</text>
+		<text>Dlaczego po prostu tego nie powiedziałeś? Zamiast przychodzić tutaj i wchodzić mi w skórę... No już, lej!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_11">
-		<text>Bottoms up!</text>
+		<text>Do dna!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_12">
-		<text>So... what do I call you?</text>
+		<text>Więc... jak mam cię nazywać?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_13">
-		<text>Axe!</text>
+		<text>Topór!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_14">
-		<text>What's your name?</text>
+		<text>Jak masz na imię?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_15">
-		<text>Sorry, but I don't have a death wish. I'll keep my name to myself.</text>
+		<text>Przykro mi, ale nie życzę sobie śmierci. Zachowam swoje imię dla siebie.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_16">
-		<text>Why's that? Pour it up!</text>
+		<text>Dlaczego? Nalej!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_17">
-		<text>Cheers! Because that's how it is here. No real names in the Zone.</text>
+		<text>Na zdrowie! Bo tak tu jest. Żadnych prawdziwych imion w Strefie.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_18">
-		<text>Ah, you stalkers and your unwritten rules... I never went far beyond the base, so I didn't know. Sorry. I'm Alex! Sanya!</text>
+		<text>Ach, wy stalkerzy i wasze niepisane zasady... Nigdy nie wychodziłem daleko poza bazę, więc nie wiedziałem. Przepraszam. Jestem Alex! Sanya!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_19">
-		<text>Sanya, what's with the drinking yourself into an early grave?</text>
+		<text>Sanya, o co chodzi z tym piciem do grobu?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_20">
-		<text>The hell am I supposed to do? They kicked me out of the base for nothing. Ain't my fault the equipment broke, but there's no way you'll get that into their heads!</text>
+		<text>Co do cholery mam zrobić? Wyrzucili mnie z bazy za nic. To nie moja wina, że sprzęt się zepsuł, ale nie ma mowy, żeby im to wbić do głowy!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_21">
-		<text>They won't let you back now?</text>
+		<text>Nie pozwolą ci teraz wrócić?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_22">
-		<text>Tried already. They won't.</text>
+		<text>Już próbowałem. Nie pozwolą.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_23">
-		<text>"Tried" how? By protesting outside the fence, asleep with a bottle in your hand?</text>
+		<text>Jak "próbowali"? Protestując przed ogrodzeniem, śpiąc z butelką w ręku?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_24">
-		<text>Don't push it, okay? I tried and they won't let me back. That equipment had a serious glitch... Pour it up! Gotta drink more!</text>
+		<text>Nie naciskaj, dobrze? Próbowałem i nie chcą mnie wpuścić z powrotem. Ten sprzęt miał poważną usterkę... Nalej! Muszę wypić więcej!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_25">
-		<text>Phew... I'm really feeling it.</text>
+		<text>Uff... Naprawdę to czuję.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_26">
-		<text>I've felt it for a week, and it won't let me go. This is the way to live!</text>
+		<text>Czuję to od tygodnia i nie pozwala mi odejść. To jest sposób na życie!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_27">
-		<text>You think? You want to drink under a tree and sleep with rotting swines? Is this what you've studied for and put your soul into?</text>
+		<text>Myślisz? Chcesz pić pod drzewem i spać z gnijącymi świniami? Po to studiowałeś i w to włożyłeś swoją duszę?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_28">
-		<text>What else do I have left? Pour up, damn it. Why's my glass empty?</text>
+		<text>Co innego mi pozostało? Nalej, do cholery. Dlaczego moja szklanka jest pusta?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_29">
-		<text>I suggest... hick... you relocate to the stalker camp. They need a medic there. You can help people.</text>
+		<text>Proponuję... hik... przenieść się do obozu stalkerów. Potrzebują tam medyka. Możesz pomóc ludziom.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_30">
-		<text>Wait, what about Gamzat?</text>
+		<text>A co z Gamzatem?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_31">
-		<text>He's gone...</text>
+		<text>Zniknął...</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_32">
-		<text>Well I'll be... Let's drink to his memory!</text>
+		<text>Ja będę... Wypijmy za jego pamięć!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_33">
-		<text>Let's! And to yours, if you don't put away the bottle!</text>
+		<text>Wypijmy! I za twoją, jeśli nie odstawisz butelki!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_34">
-		<text>Honestly, I don't care. I always wanted to be in the Zone, in that specific facility - not the old one in Yantar - and I got what I wanted. And I got kicked out in six months. I'm such a dumbass, right? Pour up, I said!</text>
+		<text>Szczerze mówiąc, nie obchodzi mnie to. Zawsze chciałem być w Strefie, w tej konkretnej placówce - nie tej starej w Jantarze - i dostałem to, czego chciałem. I zostałem wyrzucony po sześciu miesiącach. Ale ze mnie głupek, nie? Nalej, powiedziałem!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_35">
-		<text>That sure hit the spot. Phew! Take my word and go to the stalkers. You can benefit people, and you might return to the facility if you prove you can control yourself.</text>
+		<text>To na pewno trafiło w punkt. Phew! Uwierz mi na słowo i idź do stalkerów. Przydasz się ludziom i może wrócisz do placówki, jeśli udowodnisz, że potrafisz nad sobą panować.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_36">
-		<text>I dunno...</text>
+		<text>Nie wiem...</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_37">
-		<text>What do you mean, you don't know? If I were you, I'd do it right this instant! You get to sit and make a killing while we, the stalkers, dive into damp tunnels underground or deal with those goddamned mutants! I used to wander around at the Cordon, earning bit by bit. When I decided to make my way to the center, everything changed. The things I ran into back then! You have any idea what crap dwells in the Dark Valley? Psychic creatures that hammer at your head to the point you stop perceiving reality. And as for ghosts? They're real. I have no idea what they are, but I've seen it all with my own eyes! And that's not even the center of the Zone... The things happening here are very real! Pour up!</text>
+		<text>Jak to nie wiesz? Na twoim miejscu zrobiłbym to w tej chwili! Możesz siedzieć i zabijać, podczas gdy my, stalkerzy, nurkujemy w wilgotnych tunelach pod ziemią lub zajmujemy się tymi przeklętymi mutantami! Wałęsałem się po Kordonie, zarabiając kawałek po kawałku. Kiedy postanowiłem udać się do centrum, wszystko się zmieniło. Na co ja się wtedy natknąłem! Masz pojęcie, jakie gówno mieszka w Mrocznej Dolinie? Psychiczne stworzenia, które wbijają ci się w głowę do tego stopnia, że przestajesz postrzegać rzeczywistość. A co do duchów? Są prawdziwe. Nie mam pojęcia, czym są, ale widziałem to wszystko na własne oczy! A to nawet nie jest centrum Strefy... Rzeczy, które się tu dzieją, są bardzo realne! Nalewaj!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_38">
-		<text>Yeah... Tough luck for you stalkers!</text>
+		<text>Tak... Pech dla stalkerów!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_39">
-		<text>Still, this is the life I want. Society around me makes me sick. Better being here with psychic creatures and ghosts! Fill it up!</text>
+		<text>Mimo wszystko, to jest życie, którego chcę. Społeczeństwo wokół mnie przyprawia mnie o mdłości. Lepiej być tutaj z psychicznymi istotami i duchami! Do pełna!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_40">
-		<text>Cheers!</text>
+		<text>Na zdrowie!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_41">
-		<text>I'm starting to envy you! I mean, look at me: who needs me? Where does anyone want me? Nowhere! Those hucksters only need me as an errand boy, as cannon fodder for their big business. Sure, they pay, but it's next to nothing. You, on the other hand, could be of use to the stalkers, help them live another day. Pour it!</text>
+		<text>Zaczynam ci zazdrościć! To znaczy, spójrz na mnie: kto mnie potrzebuje? Gdzie ktoś mnie chce? Nigdzie! Ci naciągacze potrzebują mnie tylko jako chłopca na posyłki, jako mięso armatnie dla ich wielkiego biznesu. Jasne, płacą, ale to prawie nic. Ty, z drugiej strony, możesz przydać się stalkerom, pomóc im przeżyć kolejny dzień. Nalej!</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_42">
-		<text>Maybe you're right... I'll sleep it off and head to the stalkers first thing in the morning.</text>
+		<text>Może masz rację... Prześpię się i z samego rana pójdę do stalkerów.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_43">
-		<text>That's the spirit! I'll check on you later and see how you settle in. You're a good guy, Sanya! One more for you.</text>
+		<text>To jest duch! Sprawdzę później, jak się zadomowiłeś. Jesteś dobrym facetem, Sanya! Jeszcze jedno dla ciebie.</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_44">
-		<text>You look like you're done, pal. You okay?</text>
+		<text>Wyglądasz na wykończonego, kolego. Wszystko w porządku?</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_45">
-		<text>I'm greeeat... burp... hic...</text>
+		<text>Bardzo dobrze... beknięcie... hic...</text>
 	</string>
 
 	<string id="agr_scientists_base_drunk_medic_start_dialog_46">
-		<text>I'll come by later, Sanya.</text>
+		<text>Wpadnę później, Sanya.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_0">
-		<text>Good morning. You look rather unwell.</text>
+		<text>Dzień dobry. Nie wyglądasz najlepiej.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_1">
-		<text>It's all your Kireyev's fault. I had to join him in his drinking to get it into his head...</text>
+		<text>To wszystko wina Kirejewa. Musiałem przyłączyć się do jego picia, żeby wbić mu to do głowy...</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_2">
-		<text>Did you manage to convince him?</text>
+		<text>Udało ci się go przekonać?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_3">
-		<text>I hope so. He wasn't there in the morning. Either he's in the stalker camp or off to get another bottle. I hope it's the former... Got something to discuss with me?</text>
+		<text>Mam nadzieję. Rano go nie było. Albo jest w obozie prześladowców, albo poszedł po kolejną butelkę. Mam nadzieję, że to pierwsze... Masz coś do omówienia ze mną?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_4">
-		<text>I do. I've studied Gamzatov's notes and made certain conclusions. Since few people know about our experiment, I'd first like to ask: are you willing to continue working with me on this? If you accept, I promise you a pass into the facility and a worthy payment.</text>
+		<text>Mam. Przestudiowałem notatki Gamzatova i doszedłem do pewnych wniosków. Ponieważ niewiele osób wie o naszym eksperymencie, chciałbym najpierw zapytać: czy chcesz kontynuować współpracę ze mną? Jeśli się zgodzisz, obiecuję ci przepustkę do placówki i godną zapłatę.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_5">
-		<text>Sure, I could try.</text>
+		<text>Jasne, mogę spróbować.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_6">
-		<text>Then I would like for everything we say to each other to remain strictly confidential. May I count on you?</text>
+		<text>W takim razie chciałbym, aby wszystko, co sobie powiemy, pozostało ściśle poufne. Mogę na ciebie liczyć?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_7">
-		<text>You may.</text>
+		<text>Możesz.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_8">
-		<text>Then listen. I will attempt not to go into details and put everything as simply as possible.\n \nGamzatov and I have, for some time, engaged in artifact transmutation experiments. Through hybridization, they've displayed unique properties... provided everything is done correctly, of course. At times, we've succeeded in improving the properties of an artifact, occasionally even giving it new features. In addition, Gamzatov was sure that artifacts are somehow capable of affecting not only humans but also mutants. He only began conducting his own experiments *after* our branch of research was closed down.\n \nThe notes you brought to me verified that he attempted to procreate a selection of the Soul and Stone Flower artifacts. It gave us rather specific results, as you might've noticed: when in vicinity of the artifact, mutants calm down. Do you realize the magnitude of this discovery? For some reason, however, such artifact formations act only for a limited time.</text>
+		<text>Więc słuchaj. Postaram się nie wdawać w szczegóły i przedstawić wszystko tak prosto, jak to tylko możliwe.\n \n Gamzatov i ja od pewnego czasu zajmujemy się eksperymentami z transmutacją artefaktów. Dzięki hybrydyzacji wykazują one unikalne właściwości... oczywiście pod warunkiem, że wszystko zostało wykonane poprawnie. Czasami udawało nam się poprawić właściwości artefaktu, a czasami nawet nadać mu nowe cechy. Ponadto Gamzatov był pewien, że artefakty są w stanie wpływać nie tylko na ludzi, ale także na mutanty. Zaczął przeprowadzać własne eksperymenty dopiero po tym, jak nasza gałąź badawcza została zamknięta.\n \nNotatki, które mi przyniosłeś, potwierdziły, że próbował spłodzić wybrane artefakty Duszy i Kamiennego Kwiatu. Dało nam to dość specyficzne wyniki, jak mogłeś zauważyć: w pobliżu artefaktu mutanci uspokajają się. Czy zdajesz sobie sprawę z wagi tego odkrycia? Jednak z jakiegoś powodu takie formacje artefaktów działają tylko przez ograniczony czas.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_9">
-		<text>What do we do, then?</text>
+		<text>Co w takim razie robimy?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_10">
-		<text>I've made some calculations according to the notes, and I've found that it is intrinsically dependent on the force of the anomalies where the transmutation occurs. At the Garbage, they're not nearly as strong as we'd like, so the selection was not entirely successful. Our task is to find an anomaly field strong and concentrated enough to yield a better outcome.</text>
+		<text>Dokonałem pewnych obliczeń zgodnie z notatkami i odkryłem, że jest to z natury zależne od siły anomalii, w których zachodzi transmutacja. Na Śmieciach nie są one tak silne, jak byśmy chcieli, więc selekcja nie była do końca udana. Naszym zadaniem jest znalezienie pola anomalii wystarczająco silnego i skoncentrowanego, aby uzyskać lepszy wynik.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_11">
-		<text>What will be required?</text>
+		<text>Co będzie potrzebne?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_12">
-		<text>Unfortunately, I don't know where such an anomaly field may be found, but I do know where to begin the search: a group of military stalkers recently returned from the area around Novoshepelychi and reported anomalous acitivity after the last emission. I'm sure the transmutation can be carried out in the most powerful of these fields. Are you willing to depart there?</text>
+		<text>Niestety, nie wiem, gdzie można znaleźć takie pole anomalii, ale wiem, od czego zacząć poszukiwania: grupa wojskowych stalkerów niedawno wróciła z okolic Novoshepelychi i zgłosiła anomalną aktywność po ostatniej emisji. Jestem pewien, że transmutację można przeprowadzić w najpotężniejszym z tych pól. Czy jesteście gotowi tam odlecieć?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_13">
-		<text>Novoshepelychi? Never been there. Could you clarify what I need to do?</text>
+		<text>Novoshepelychi? Nigdy tam nie byłem. Mógłbyś wyjaśnić, co muszę zrobić?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_14">
-		<text>Your task is to reach the area and place five scanners along a certain perimeter. Using them, we will determine the zone with the highest level of anomalous activity. After that, you will carry out a transmutation. It's very simple - I will give you a small technical manual.</text>
+		<text>Twoim zadaniem jest dotrzeć na miejsce i umieścić pięć skanerów wzdłuż określonego obwodu. Za ich pomocą określimy strefę o najwyższym poziomie anomalnej aktywności. Następnie przeprowadzisz transmutację. To bardzo proste - dam ci małą instrukcję techniczną.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_15">
-		<text>I think I understand. Anything else?</text>
+		<text>Myślę, że rozumiem. Coś jeszcze?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_16">
-		<text>Yes. I've carried out a selection of the Soul and Stone Flower artifacts in the anomaly field in the swamp that's nearby. The artifact should have transformed by now. Go to the swamp together with an assistant of mine and try to extract it.</text>
+		<text>Tak. Przeprowadziłem selekcję artefaktów Duszy i Kamiennego Kwiatu w polu anomalii na pobliskim bagnie. Artefakt powinien być już przekształcony. Udaj się na bagna razem z moim asystentem i spróbuj go wydobyć.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_17">
-		<text>Keep your assistant. I'll make it on my own.</text>
+		<text>Zatrzymaj swojego asystenta. Ja poradzę sobie sam.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_18">
-		<text>The anomaly field in the swamp is very dangerous - it'll help if you go together. After retrieving the artifact, return to the facility. You will find me outdoors. Oh, and here's your pass and settling-in allowance. Good luck!</text>
+		<text>Pole anomalii na bagnach jest bardzo niebezpieczne - pomoże, jeśli pójdziecie razem. Po odzyskaniu artefaktu wróć do placówki. Znajdziesz mnie na zewnątrz. Oto przepustka i dodatek na zagospodarowanie. Powodzenia!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_second_dialog_19">
-		<text>Thank you.</text>
+		<text>Dziękuję.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_start_dialog_0">
-		<text>Hello. Are you ready to retrieve the artifact?</text>
+		<text>Witam. Gotowy na odzyskanie artefaktu?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_start_dialog_1_1">
-		<text>I'm ready. What's the plan?</text>
+		<text>Tak. Jaki jest plan?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_start_dialog_1_2">
-		<text>Not ready yet.</text>
+		<text>Jeszcze nie.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_start_dialog_2">
-		<text>I believe professor Dubinin has already told you about the abundance of anomalies in that area. With help of an anomaly detection device, I'll be able to calculate a safe path to the artifact. After that, it's all up to you. Clear?</text>
+		<text>Sądzę, że profesor Dubinin mówił już o obfitości anomalii w tym obszarze. Z pomocą urządzenia do wykrywania anomalii będę w stanie obliczyć bezpieczną drogę do artefaktu. Potem wszystko zależy od ciebie. Jasne?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_start_dialog_3">
-		<text>Clear.</text>
+		<text>Jasne.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_0">
-		<text>Phew!</text>
+		<text>Uff!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_1">
-		<text>How are you? Are you okay?</text>
+		<text>Jak się masz? Wszystko w porządku?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_2">
-		<text>I'm okay. Damn... What are they... Why'd they do that?</text>
+		<text>Tak. Cholera... Co oni... Dlaczego to zrobili?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_3">
-		<text>This is the Zone. Some here would die to get their hands on an ordinary Jellyfish, and for this artifact... they'd sell their soul to the devil.</text>
+		<text>To jest Strefa. Niektórzy tutaj umarliby, żeby dostać w swoje ręce zwykłą meduzę, a za ten artefakt... sprzedaliby duszę diabłu.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_4">
-		<text>They shot us on sight, without warning!</text>
+		<text>Strzelali do nas bez ostrzeżenia!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_5">
-		<text>They must've been frightened. Don't worry - it's all behind us.</text>
+		<text>Musieli się przestraszyć. Nie martw się - to już za nami.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_6">
-		<text>I didn't think I'd have to use this pistol. Got it eons ago.</text>
+		<text>Nie sądziłem, że będę musiał użyć tego pistoletu. Dostałem go wieki temu.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_7">
-		<text>First time in action? Congratulations!</text>
+		<text>Pierwszy raz w akcji? Gratulacje!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_8">
-		<text>Uhuh. Thanks.</text>
+		<text>Uhuh. Dzięki.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_9">
-		<text>How are we getting the artifact? Looks like one guy didn't make it already.</text>
+		<text>Jak zdobędziemy artefakt? Wygląda na to, że jednemu się nie udało.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_10">
-		<text>That's why I went with you. I'll now try to locate a safe point where you can begin moving toward the anomaly.</text>
+		<text>Dlatego poszedłem z tobą. Postaram się teraz zlokalizować bezpieczny punkt, z którego będziecie mogli ruszyć w kierunku anomalii.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_second_dialog_11">
-		<text>Alright.</text>
+		<text>W porządku.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_0">
-		<text>Damn it!</text>
+		<text>Cholera!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_1">
-		<text>What happened?</text>
+		<text>Co się stało?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_2">
-		<text>Look at that! See this? A bullet! How'd that happen?</text>
+		<text>Spójrz na to! Widzisz to? Kula! Jak to się stało?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_3">
-		<text>No way. The device saved your life!</text>
+		<text>Nie ma mowy. Urządzenie uratowało ci życie!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_4">
-		<text>Yes. Lucky me... This will, however, add a level of complexity in getting to the artifact. We have no other device right now.</text>
+		<text>Tak. Szczęściarz ze mnie... To jednak doda poziom złożoności w dotarciu do artefaktu. W tej chwili nie mamy innego urządzenia.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_5">
-		<text>I promise nothing, but I'll try getting into the anomaly. I have some experience, and thank goodness that experience was on the positive side.</text>
+		<text>Niczego nie obiecuję, ale spróbuję dostać się do anomalii. Mam pewne doświadczenie i dzięki Bogu było ono pozytywne.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_6">
-		<text>I can only cross my fingers for you from over here, on the shore.</text>
+		<text>Mogę tylko trzymać za ciebie kciuki stąd, z brzegu.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_third_dialog_7">
-		<text>Let's do this.</text>
+		<text>Zróbmy to.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_reversed_dialog_0">
-		<text>What a feat! You haphazardly retrieved the artifact with no devices!</text>
+		<text>Co za wyczyn! Przypadkowo odzyskałeś artefakt bez żadnych urządzeń!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_reversed_dialog_1">
-		<text>I'll admit I'm surprised myself.</text>
+		<text>Przyznam, że sam jestem zaskoczony.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_reversed_dialog_2">
-		<text>In any circumstance, you would've had to act by yourself. My equipment took a bullet in the firefight.</text>
+		<text>W każdej sytuacji musiałbyś działać sam. Mój sprzęt oberwał podczas wymiany ognia.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_reversed_dialog_3">
-		<text>It happens. So, are we going back to base?</text>
+		<text>Zdarza się. Wracamy do bazy?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_reversed_dialog_4">
-		<text>You go and I'll catch up. I'm not as nimble as you.</text>
+		<text>Ty idź, a ja cię dogonię. Nie jestem tak zwinny jak ty.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_reversed_dialog_5">
-		<text>Later, then.</text>
+		<text>W takim razie później.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_wait_artefact_dialog_0">
-		<text>Try to retrieve the artifact!</text>
+		<text>Spróbuj odzyskać artefakt!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_wait_artefact_dialog_1">
-		<text>I'll think of something.</text>
+		<text>Coś wymyślę.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_four_dialog_0">
-		<text>You were hanging by a thread! The anomaly triggered several times, and I nearly jumped out of my skin!</text>
+		<text>Wisiałeś na włosku! Anomalia aktywowała się kilka razy, a ja prawie wyskoczyłem ze skóry!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_four_dialog_1">
-		<text>Easy. I've dealt with artifacts harder than this.</text>
+		<text>Spokojnie. Miałem do czynienia z trudniejszymi artefaktami niż ten.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_four_dialog_2">
-		<text>Then we can return to the facility. Shall we go?</text>
+		<text>Potem możemy wrócić do placówki. Idziemy?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_assistant_four_dialog_3">
-		<text>Let's go.</text>
+		<text>Chodźmy.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_0">
-		<text>Oh, you're back! How did it go?</text>
+		<text>Wróciłeś! Jak poszło?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_1_1">
-		<text>We had to go in blind. Your device took a bullet and ceased working.</text>
+		<text>Musieliśmy wejść w ciemno. Twoje urządzenie dostało kulkę i przestało działać.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_1_2">
-		<text>We had to go in blind.</text>
+		<text>Musieliśmy wejść w ciemno.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_2">
-		<text>What happened? Is Karavayev alive?</text>
+		<text>Co się stało? Czy Karawajew żyje?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_3_1">
-		<text>He's alive. We're lucky the bullet went into the device, or else... Ask him yourself what happened.</text>
+		<text>Żyje. Mamy szczęście, że kula trafiła w urządzenie, bo inaczej... Sam go zapytaj, co się stało.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_3_2">
-		<text>He's alive. We're lucky the bullet didn't go into his head, or else... Ask him yourself what happened.</text>
+		<text>Żyje. Mamy szczęście, że kula nie trafiła w głowę, bo inaczej... Sam go zapytaj, co się stało.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_4">
-		<text>Did you retrieve the artifact?</text>
+		<text>Odzyskałeś artefakt?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_5">
-		<text>Yes. I have it.</text>
+		<text>Tak, mam go.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_6">
-		<text>Good. That means almost everything is done. We only have to find and retrieve one more artifact, and then we can commence searching for an anomalous zone.</text>
+		<text>To dobrze. To znaczy, że prawie wszystko zrobione. Musimy tylko znaleźć i odzyskać jeszcze jeden artefakt, a potem możemy rozpocząć poszukiwania anomalnej strefy.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_7">
-		<text>What artifact?</text>
+		<text>Jakiego artefaktu?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_8">
-		<text>An «Concrete Chip». A very rare specimen, but I know where one was last seen. It happens to be in Novoshepelychi, in the abandoned military base. If no one's yet walked away with it, it should be there. Once you find the Insulator, you will have to install five scanners in areas marked on your map. After that, I'll send you the location of the zone with the highest anomalous activity - that's where you will carry out a transmutation of the «Concrete Chip» and the «Starwort».</text>
+		<text>"Betonowy wiór". Bardzo rzadki okaz, ale wiem, gdzie ostatnio go widziano. Tak się składa, że znajduje się w Novoshepelychi, w opuszczonej bazie wojskowej. Jeśli nikt jeszcze go nie zabrał, powinien tam być. Gdy znajdziesz izolator, będziesz musiał zainstalować pięć skanerów w miejscach zaznaczonych na mapie. Następnie prześlę ci lokalizację strefy o największej aktywności anomalnej - to tam przeprowadzisz transmutację "Betonowego Chipa" i "Gwiezdnej Borty".</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_9">
-		<text>The Starwort?</text>
+		<text>Starwort?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_10">
-		<text>My name for the artifact you retrieved in the swamp. Don't mind it - strictly a working title.</text>
+		<text>Moja nazwa dla artefaktu, który znalazłeś na bagnach. Nie przejmuj się tym - to tylko tytuł roboczy.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_11">
-		<text>Okay, seems clear enough. I hope the scanners aren't heavy?</text>
+		<text>Ok, wydaje się wystarczająco jasne. Mam nadzieję, że skanery nie są ciężkie?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_12">
-		<text>No, of course not. No heavier than a mobile phone. I don't believe you'll exhaust yourself... heh.</text>
+		<text>Oczywiście, że nie. Nie cięższe niż telefon komórkowy. Nie wierzę, że się zmęczysz... heh.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_13">
-		<text>That settles it, then. Can I go?</text>
+		<text>To załatwia sprawę. Mogę iść?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_14">
-		<text>Yes. Here are the scanners and an additional sum. And remember: tell no one about the purpose of your visit to Novoshepelychi. We know of a few squads of stalkers in the area around the village, and it's best they don't know anything. In official terms, you went to search for artifacts marked on a list from me. Understood?</text>
+		<text>Tak. Tu są skanery i dodatkowa suma. I pamiętaj: nie mów nikomu o celu swojej wizyty w Novoshepelychi. Wiemy o kilku oddziałach stalkerów w okolicy wioski i lepiej, żeby o niczym nie wiedzieli. Oficjalnie rzecz biorąc, pojechałeś szukać artefaktów oznaczonych na liście ode mnie. Zrozumiano?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_15">
-		<text>Yes, of course.</text>
+		<text>Tak, oczywiście.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_16">
-		<text>Then I look forward to hearing from you soon. Good luck!</text>
+		<text>W takim razie czekam na wiadomość w najbliższym czasie. Powodzenia!</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_task_third_dialog_17">
-		<text>Thank you. I hope we'll meet again soon.</text>
+		<text>Dziękuję. Mam nadzieję, że wkrótce znów się spotkamy.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_0">
-		<text>I have a few questions.</text>
+		<text>Mam kilka pytań.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_1">
-		<text>Of course. Ask.</text>
+		<text>Oczywiście. Pytaj.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_1">
-		<text>Why was your research shut down?</text>
+		<text>Dlaczego badania zostały przerwane?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_2">
-		<text>Can you tell me more about the science facility?</text>
+		<text>Czy możesz mi powiedzieć coś więcej o placówce naukowej?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_3">
-		<text>What happened to your assistants at Yantar?</text>
+		<text>Co się stało z twoimi asystentami na Jantarze?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_4">
-		<text>Why are stalkers not allowed in the main building?</text>
+		<text>Dlaczego stalkerzy nie mają wstępu do głównego budynku?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_5">
-		<text>While at the Cordon, some stalkers and I ran into some strange flesh who lure victims and imitate stalker voices. Sound familiar in any way?</text>
+		<text>Podczas pobytu w Kordonie wraz z kilkoma stalkerami natknęliśmy się na dziwne ciało, które wabiło ofiary i naśladowało głosy stalkerów. Brzmi to jakoś znajomo?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_6">
-		<text>Why did you sell psychotropic substances to the bandits?</text>
+		<text>Dlaczego sprzedawałeś substancje psychotropowe bandytom?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_7">
-		<text>Tell me about this place.</text>
+		<text>Opowiedz mi o tym miejscu.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_2_8">
-		<text>I'd like to know about the Agroprom Undergrounds.</text>
+		<text>Chciałbym dowiedzieć się czegoś o podziemiach Agropromu.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_1">
-		<text>Unfortunately, our financing is unstable, and our superiors expect immediate results. Our research offered great potential, but we still had a great deal of work on our hands. Not just that, though: science is not just about formulas but experiments through trial and error. Loosely speaking, we did not have enough expendable supplies... artifacts. The head of the scientific department argued that we were wasting precious resources without visible results and closed our work. Yet, several other assistants and I, including Gamzatov - may his soul rest in peace - were passionate to carry through with the project, and so we never abandoned it.</text>
+		<text>Niestety, nasze finansowanie jest niestabilne, a nasi przełożeni oczekują natychmiastowych rezultatów. Nasze badania miały ogromny potencjał, ale przed nami było jeszcze wiele pracy. Ale nie tylko: nauka to nie tylko formuły, ale także eksperymenty metodą prób i błędów. Mówiąc luźno, nie mieliśmy wystarczających zapasów... artefaktów. Szef działu naukowego stwierdził, że marnujemy cenne zasoby bez widocznych rezultatów i zamknął naszą pracę. Jednak kilku innych asystentów i ja, w tym Gamzatov - niech jego dusza spoczywa w pokoju - z pasją kontynuowaliśmy projekt i nigdy go nie porzuciliśmy.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_2">
-		<text>The facility was established a year ago; a decision that I believe was long due. The Zone does have its share of mobile stations, but all are located in harsh areas where no ordinary scientists would ever go regardless of the salary. Only zealous scientists who'd do anything for the sake of discoveries would work there - even amidst dirty, snork-filled swamps. The fact stands that ordinary scientists used to working in calm and comfortable conditions are also significant, which is what this complex is ideal for: its location is the most favorable for our work, being part of the Zone but not in its center, and thus giving us a safer work environment for research. Thanks to additional financing, new staff was recruited and new areas of research were opened up; part of that new staff included me, Gamzatov, and many others. Additionally, the situation at Yantar has recently taken an unpleasant turn: the lake overflowed its banks, the bunker flooded, and mutants poured in. The area turned into a dead zone overnight, making this place, undoubtedly, the scientific center of the Zone.</text>
+		<text>Obiekt powstał rok temu; decyzja, która moim zdaniem była od dawna należna. Strefa ma swój udział w mobilnych stacjach, ale wszystkie znajdują się w trudnych obszarach, gdzie żaden zwykły naukowiec nigdy by się nie udał, niezależnie od wynagrodzenia. Tylko gorliwi naukowcy, którzy zrobiliby wszystko w imię odkryć, pracowaliby tam - nawet wśród brudnych, pełnych nurkowania bagien. Nie bez znaczenia jest również fakt, że zwykli naukowcy przyzwyczajeni do pracy w spokojnych i komfortowych warunkach, do czego ten kompleks nadaje się idealnie: jego lokalizacja jest najbardziej korzystna dla naszej pracy, będąc częścią Strefy, ale nie w jej centrum, a tym samym dając nam bezpieczniejsze środowisko pracy do badań. Dzięki dodatkowemu finansowaniu zatrudniono nowych pracowników i otwarto nowe obszary badań; część tego nowego personelu obejmowała mnie, Gamzatova i wielu innych. Dodatkowo, sytuacja w Yantar przybrała ostatnio nieprzyjemny obrót: jezioro przelało się przez brzegi, bunkier został zalany, a mutanty wlały się do środka. Okolica z dnia na dzień zamieniła się w martwą strefę, czyniąc to miejsce bez wątpienia naukowym centrum Strefy.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_3">
-		<text>They died. Frankly speaking, I don't know the details, but I haven't met them since. It's classified information. In these times, stalkers avoid Yantar altogether - that place holds only death and nothing more.</text>
+		<text>Zginęli. Szczerze mówiąc, nie znam szczegółów, ale od tamtej pory ich nie spotkałem. To tajne informacje. W tych czasach stalkerzy całkowicie unikają Jantaru - to miejsce kryje w sobie tylko śmierć i nic więcej.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_4">
-		<text>Well, what do you think? We conduct secret research there, and as few people as possible should know about it. Therefore, access to the main building is restricted to those with special passes, which hired stalkers do not carry.</text>
+		<text>A co ty o tym myślisz? Prowadzimy tam tajne badania i jak najmniej osób powinno o nich wiedzieć. Dlatego dostęp do głównego budynku jest ograniczony do osób ze specjalnymi przepustkami, których wynajęci stalkerzy nie posiadają.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_5">
-		<text>I've heard lots, but unfortunately, we lack detailed information. Many consider it to be part of the numerous campfire tales from the Zone. I don't think I'm the right person to ask, though I've heard the swamp is home to the Swamp Doctor - he heals stalkers and even mutants. Perhaps he could shed light on your question?</text>
+		<text>Słyszałem wiele, ale niestety brakuje nam szczegółowych informacji. Wielu uważa to za część licznych opowieści ze Strefy przy ognisku. Chyba nie jestem odpowiednią osobą, by o to pytać, ale słyszałem, że bagna są domem dla Bagiennego Doktora, który leczy stalkerów, a nawet mutanty. Może on mógłby rzucić światło na twoje pytanie?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_6">
-		<text>I'm have no fondness for such individuals, if we can even call them that, but research takes priority over principles. I'm in dire need of finances in order for our work to flourish.</text>
+		<text>Nie przepadam za takimi osobnikami, jeśli w ogóle można ich tak nazwać, ale badania mają pierwszeństwo przed zasadami. Bardzo potrzebuję środków finansowych, aby nasza praca mogła się rozwijać.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_7">
-		<text>Now, as you can see, it is a full-fledged scientific complex with everything necessary to study such an interesting, so to speak, place. At least, as far as our budget and current geographical conditions allow. Did you know that it was here before, back in the Soviet Union? Now, listen, since you asked. I'll give you a history lesson, so to speak. The central building of the institute was built in the seventies, when Pripyat was still under construction. It was a large medical complex known as the Medpribor Research Institute. According to the official, so to speak, version, this place was supposed to treat people, study diseases, perform especially complicated operations and conduct other medical research. They obviously spared no expense, as a lot of expensive equipment had been imported and a large number of bright minds had been attracted. But you know that a lot of truths were hidden from people during the Soviet Union..... Therefore, I am convinced that the complex was obviously military-oriented, as can be seen from the surviving documents and remnants of infrastructure. However, after the Chernobyl accident in 1986, this place changed its original purpose. People were evacuated and there was no one left to treat them. So then this research institute began to study and analyse the effect of radioactive radiation on plants and soil. So to speak, they wanted to check how radiation affects the growth and development of agricultural crops. The central complex contained administrative facilities, test sites and even plantations for growing plants. We have them now, by the way, if you've noticed. A tribute to the traditions of Soviet science, so to speak. But another building, a few kilometres further down the road, used to be the central loading complex. There they stored and later transported various cargoes and fertilisers along the railway tracks. Some trains were driven to the big earth, and some were sent through the tunnels towards the undergrounds of Pripyat. What they did with them, I don't know myself.</text>
+		<text>Teraz, jak widać, jest to pełnoprawny kompleks naukowy ze wszystkim, co niezbędne do badania tak interesującego, że tak powiem, miejsca. Przynajmniej na tyle, na ile pozwala nasz budżet i obecne warunki geograficzne. Czy wiedziałeś, że był tu wcześniej, jeszcze za czasów Związku Radzieckiego? A teraz słuchaj, skoro pytasz. Dam ci lekcję historii, że tak powiem. Centralny budynek instytutu został zbudowany w latach siedemdziesiątych, kiedy Prypeć była jeszcze w budowie. Był to duży kompleks medyczny znany jako Instytut Badawczy Medpribor. Zgodnie z oficjalną, że tak powiem, wersją, miejsce to miało leczyć ludzi, badać choroby, przeprowadzać szczególnie skomplikowane operacje i prowadzić inne badania medyczne. Oczywiście nie szczędzono wydatków, sprowadzono wiele drogiego sprzętu i przyciągnięto wiele bystrych umysłów. Ale wiadomo, że wiele prawd zostało ukrytych przed ludźmi w czasach Związku Radzieckiego..... Dlatego jestem przekonany, że kompleks był oczywiście zorientowany na wojsko, co widać z zachowanych dokumentów i pozostałości infrastruktury. Jednak po katastrofie w Czarnobylu w 1986 r. miejsce to zmieniło swoje pierwotne przeznaczenie. Ludzie zostali ewakuowani i nie było już nikogo, kto mógłby ich leczyć. Następnie instytut badawczy zaczął badać i analizować wpływ promieniowania radioaktywnego na rośliny i glebę. Można powiedzieć, że chciano sprawdzić, jak promieniowanie wpływa na wzrost i rozwój upraw rolnych. Centralny kompleks zawierał obiekty administracyjne, stanowiska testowe, a nawet plantacje do uprawy roślin. Nawiasem mówiąc, mamy je teraz, jeśli zauważyłeś. Hołd dla tradycji radzieckiej nauki, że tak powiem. Ale inny budynek, kilka kilometrów dalej, był centralnym kompleksem załadunkowym. Tam przechowywano, a następnie transportowano różne ładunki i nawozy wzdłuż torów kolejowych. Niektóre pociągi były kierowane na wielką ziemię, a niektóre były wysyłane tunelami w kierunku podziemi Prypeci. Co z nimi zrobili, sam nie wiem.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_3_8">
-		<text>Before this place became an Exclusion Zone, these undergrounds served as communication collectors. They were used to supply heat, electricity and other communications to the facilities, as well as to drain the institute's sewage into the nearest body of water. And now this place is abandoned, filled with anomalies and mutants. Why, it's a very acceptable environment for all sorts of local nasties. To be honest, we in the complex can not be happy with the fact that right next door is a rich source of various biomaterial and anomalous formations for research. But not everyone dares to go down there. And mutants and anomalies are not the main threat. In my opinion, the collectors could collapse at almost any moment! In Soviet times, even though they built everything for centuries, but this dungeon has suffered a lot of fate! When this base was still inhabited by representatives of the group Duty, they and some mercenary flooded most of the collectors to stop mutant attacks. Some rooms are still flooded to this day. And a few years after the flood, there was a war here! I don't know how many grenades exploded inside and how much damage the structures of the dungeons might have sustained. So my prediction is that in a couple of years, there will be no more places like the Agroprom Undergrounds on the map of the Zone.</text>
+		<text>Zanim to miejsce stało się Strefą Wykluczenia, te podziemia służyły jako kolektory komunikacyjne. Służyły do dostarczania ciepła, elektryczności i innej komunikacji do obiektów, a także do odprowadzania ścieków z instytutu do najbliższego zbiornika wodnego. A teraz to miejsce jest opuszczone, wypełnione anomaliami i mutantami. To bardzo akceptowalne środowisko dla wszelkiego rodzaju lokalnych paskudztw. Szczerze mówiąc, my w kompleksie nie możemy być zadowoleni z faktu, że tuż obok znajduje się bogate źródło różnych biomateriałów i anomalnych formacji do badań. Ale nie każdy odważy się tam zejść. A mutanty i anomalie nie są głównym zagrożeniem. Moim zdaniem kolektory mogą się zawalić niemal w każdej chwili! W czasach radzieckich, chociaż budowali wszystko przez wieki, ale ten loch wiele wycierpiał! Kiedy ta baza była jeszcze zamieszkana przez przedstawicieli grupy Duty, oni i kilku najemników zalali większość kolektorów, aby powstrzymać ataki mutantów. Niektóre pomieszczenia są zalane do dziś. A kilka lat po powodzi wybuchła tu wojna! Nie wiem, ile granatów eksplodowało w środku i jak duże szkody mogły ponieść struktury lochów. Przewiduję więc, że za kilka lat na mapie Strefy nie będzie już takich miejsc jak Podziemia Agropromu.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_4_1">
-		<text>And if you get exposed?</text>
+		<text>A jeśli zostaniesz zdemaskowany?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_5_1">
-		<text>At best, I'll be discharged. At worst, I'll face court.</text>
+		<text>W najlepszym wypadku zostanę zwolniony. W najgorszym, stanę przed sądem.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_6_1">
-		<text>Are you willing to take those risks?</text>
+		<text>Jesteś gotów podjąć to ryzyko?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_7_1">
-		<text>As of late, the science facility has remained at a standstill. We are no longer making discoveries or researching what we should be researching. Our project is all that's capable of turning the tide, and I'm ready to risk everything - including my own life - to reach an outcome.</text>
+		<text>Od niedawna placówka naukowa stoi w miejscu. Nie dokonujemy już odkryć ani nie badamy tego, co powinniśmy. Nasz projekt jest wszystkim, co może odwrócić bieg wydarzeń i jestem gotów zaryzykować wszystko - łącznie z własnym życiem - aby osiągnąć rezultat.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_8_1">
-		<text>But you're working behind your superiors' backs. Where are you going with your developments?</text>
+		<text>Ale pracujesz za plecami swoich przełożonych. Dokąd zmierzasz ze swoim rozwojem?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_9_1">
-		<text>As I've mentioned, they expect immediate results. Hence, they'll disregard the fact that we've been working clandestinely. At any rate, this isn't the first time it happens.</text>
+		<text>Jak już wspomniałem, oczekują oni natychmiastowych rezultatów. Dlatego zlekceważą fakt, że pracujemy potajemnie. W każdym razie, to nie pierwszy raz, kiedy tak się dzieje.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_10">
-		<text>Thanks. That's all.</text>
+		<text>Dzięki. To wszystko.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_secondary_dialogs_11">
-		<text>We'll talk another time.</text>
+		<text>Porozmawiamy innym razem.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_dialog_0">
-		<text>Hello.</text>
+		<text>Witam.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_dialog_1">
-		<text>Welcome.</text>
+		<text>Witam.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_dialog_2">
-		<text>What brings you by?</text>
+		<text>Co cię sprowadza?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_dialog_3">
-		<text>Nice to see you.</text>
+		<text>Miło cię widzieć.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_dialog_4">
-		<text>How are you?</text>
+		<text>Jak się masz?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_close_post_dialog_0">
-		<text>Halt! This is the service entrance. If you want to enter, go through the main one. Don't expect any entry without a pass.</text>
+		<text>Stać! To jest wejście dla obsługi. Jeśli chcesz wejść, przejdź przez główne. Nie oczekuj wejścia bez przepustki.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_close_post_dialog_1">
-		<text>I understand.</text>
+		<text>Rozumiem.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_second_dialog_0">
-		<text>Didn't I tell you already? No pass, no entry.</text>
+		<text>A nie mówiłem? Bez przepustki nie ma wstępu.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_second_dialog_1_1">
-		<text>I'm leaving.</text>
+		<text>Wychodzę.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_second_dialog_1_2">
-		<text>I have a pass.</text>
+		<text>Mam przepustkę.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_second_dialog_2">
-		<text>I see. Go on, but keep your gun out of sight.</text>
+		<text>Rozumiem. Idź, ale trzymaj broń poza zasięgiem wzroku.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_second_dialog_3">
-		<text>Right.</text>
+		<text>Dobra.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_wait_supplies_dialog_0">
-		<text>Got the food?</text>
+		<text>Masz jedzenie?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_wait_supplies_dialog_1_1">
-		<text>Have a nice meal.</text>
+		<text>Smacznego.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_wait_supplies_dialog_1_2">
-		<text>I'll be right back.</text>
+		<text>Zaraz wracam.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_actor_dialog_0">
-		<text>Until next time, professor.</text>
+		<text>Do następnego razu, profesorze.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_actor_dialog_1">
-		<text>Take care.</text>
+		<text>Trzymaj się.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_actor_dialog_2">
-		<text>Bye, professor.</text>
+		<text>Do widzenia, profesorze.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_actor_dialog_3">
-		<text>I'm going.</text>
+		<text>Idę.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_idle_actor_dialog_4">
-		<text>See you.</text>
+		<text>Do zobaczenia.</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_idle_dialog_0_1">
-		<text>What do you need?</text>
+		<text>Czego potrzebujesz?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_idle_dialog_0_2">
-		<text>Well, hello, stalker.</text>
+		<text>Witaj, prześladowco.</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_idle_dialog_0_3">
-		<text>What do you need, stalker?</text>
+		<text>Czego potrzebujesz, prześladowco?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_idle_dialog_0_4">
-		<text>Come here. Got lots in store.</text>
+		<text>Chodź tu. Mam sporo w sklepie.</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_idle_dialog_0_5">
-		<text>Wanna trade?</text>
+		<text>Chcesz się wymienić?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_technic_idle_dialog_0_1">
-		<text>What did you break this time?</text>
+		<text>Co zepsułeś tym razem?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_technic_idle_dialog_0_2">
-		<text>What've you got, stalker?</text>
+		<text>Co tam masz, natręcie?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_technic_idle_dialog_0_3">
-		<text>Hi. Come to patch up your armor?</text>
+		<text>Cześć. Przyszedłeś naprawić zbroję?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_technic_idle_dialog_0_4">
-		<text>Hey, man.</text>
+		<text>Cześć, stary.</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_technic_idle_dialog_0_5">
-		<text>Welcome. Show me what you need fixed.</text>
+		<text>Witaj. Pokaż mi, co chcesz naprawić.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_idle_dialog_0_1">
-		<text>I'm listening.</text>
+		<text>Słucham.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_idle_dialog_0_2">
-		<text>Speak.</text>
+		<text>Mów.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_idle_dialog_0_3">
-		<text>Speak up.</text>
+		<text>Mów.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_idle_dialog_0_4">
-		<text>Got something to discuss?</text>
+		<text>Masz coś do omówienia?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_idle_dialog_0_5">
-		<text>What've you got?</text>
+		<text>Co masz?</text>
 	</string>
 
 	<string id="agr_scientists_base_actor_with_colonel_idle_dialog_0_1">
-		<text>I'm going, colonel, sir.</text>
+		<text>Idę, pułkowniku.</text>
 	</string>
 
 	<string id="agr_scientists_base_actor_with_colonel_idle_dialog_0_2">
-		<text>Permission to leave, sir?</text>
+		<text>Pozwoli pan odejść?</text>
 	</string>
 
 	<string id="agr_scientists_base_actor_with_colonel_idle_dialog_0_3">
-		<text>I'll be on my way, if you allow it.</text>
+		<text>Już idę, jeśli pan pozwoli.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_0">
-		<text>Hello.</text>
+		<text>Halo.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_1">
-		<text>Called for me?</text>
+		<text>Wzywałeś mnie?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_2">
-		<text>I did. How are things in the facility? How's it treating you?</text>
+		<text>Tak. Co słychać w ośrodku? Jak cię traktują?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_3">
-		<text>Badly. Is that what you wanted to discuss with me?</text>
+		<text>Źle. O tym chciałeś ze mną porozmawiać?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_4">
-		<text>Watch it! Or I'll have you guarding the cornfields until your contract expires. If you want to head out, you'll get to head out. You ready for this mission?</text>
+		<text>Uważaj! Albo każę ci pilnować pól kukurydzy aż do wygaśnięcia kontraktu. Jeśli chcesz wyruszyć, to wyruszysz. Gotowy na tę misję?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_5">
-		<text>I'm always ready.</text>
+		<text>Zawsze jestem gotowy.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_6">
-		<text>What, not gonna ask what you're taking on?</text>
+		<text>Co, nie zapytasz, co bierzesz na siebie?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_7">
-		<text>I'm tired of seeing the same faces. I signed my contract to work in the Zone, not to pave trails at Agroprom.</text>
+		<text>Jestem zmęczony oglądaniem tych samych twarzy. Podpisałem kontrakt na pracę w Strefie, a nie brukowanie ścieżek w Agropromie.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_8">
-		<text>I won't even tell you that you brought it upon yourself. You know it full well. Speak to professor Volkov and he'll tell you everything.</text>
+		<text>Nawet ci nie powiem, że sam to na siebie sprowadziłeś. Dobrze o tym wiesz. Porozmawiaj z profesorem Volkovem, on ci wszystko powie.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_yantar_dialog_9">
-		<text>Understood.</text>
+		<text>Zrozumiałem.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_0">
-		<text>You do know what happened a month ago at Yantar?</text>
+		<text>Wiesz, co się stało miesiąc temu w Jantarze?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_1">
-		<text>Everyone knows. Place is flooded, scientists are dead.</text>
+		<text>Wszyscy wiedzą. Miejsce jest zalane, naukowcy nie żyją.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_2">
-		<text>We'd like to believe that there are survivors left. If not - dear lord, I hope not - then their research is of utmost importance to us. We must extract all objects of interest to us from the science bunker. As of late, professor Sakharov was carrying out some rather interesting studies, and I do hope their result wasn't left behind there... or worse, in the hands of stalkers.</text>
+		<text>Chcielibyśmy wierzyć, że ocaleli. Jeśli nie - drogi panie, mam nadzieję, że nie - to ich badania są dla nas niezwykle ważne. Musimy wydobyć wszystkie interesujące nas przedmioty z bunkra naukowego. Profesor Sacharow prowadził ostatnio dość interesujące badania i mam nadzieję, że ich wyniki nie zostały tam pozostawione... lub, co gorsza, w rękach stalkerów.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_3">
-		<text>What are our exact objectives?</text>
+		<text>Jakie są nasze dokładne cele?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_4">
-		<text>Investigate the situation, rescue any survivors and retrieve the results of the research. It's also crucial that we get a full picture of the incident there; we don't know a damn thing about what hppened.</text>
+		<text>Zbadać sytuację, uratować ocalałych i odzyskać wyniki badań. Ważne jest również, abyśmy uzyskali pełny obraz tamtejszego incydentu; nic nie wiemy o tym, co się wydarzyło.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_5">
-		<text>Understood. Any additional instructions?</text>
+		<text>Zrozumiałem. Jakieś dodatkowe instrukcje?</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_6">
-		<text>You'll get them during the course of the operation. We'll try to stay in touch with you. That's all for now.</text>
+		<text>Otrzymasz je w trakcie operacji. Postaramy się pozostać z wami w kontakcie. Na razie to wszystko.</text>
 	</string>
 
 	<string id="agr_scientists_base_scientist_yantar_dialog_7">
-		<text>Got it.</text>
+		<text>Zrozumiałem.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_0">
-		<text>Everything clear? You'll move out tomorrow at dawn, so have your squad gear up. You'll have special equipment for this one... as well as an additional member.</text>
+		<text>Wszystko jasne? Wyruszysz jutro o świcie, więc przygotuj swój oddział. Będziesz miał specjalny sprzęt dla tego... a także dodatkowego członka.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_1">
-		<text>Why another? The four of us will manage. Who is this man anyway?</text>
+		<text>Po co jeszcze jeden? Nasza czwórka sobie poradzi. Kim w ogóle jest ten człowiek?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_2">
-		<text>Dmytro Koval. He's a former stalker and knows a lot about anomalous formations. Having a specialist by your side won't hurt.</text>
+		<text>Dmytro Koval. Jest byłym stalkerem i wie dużo o formacjach anomalnych. Posiadanie specjalisty u boku nie zaszkodzi.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_3">
-		<text>Koval? A questionable person. I'm sure we'll manage without him.</text>
+		<text>Koval? Wątpliwa osoba. Jestem pewien, że poradzimy sobie bez niego.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_4">
-		<text>Denied. Koval's going with you and that's final. One more thing: I believe you understand that you won't be running into any survivors. Concentrate on finding the scientists' data and pull out of there.</text>
+		<text>Odmawiam. Koval idzie z tobą i to jest ostateczne. Jeszcze jedno: wierzę, że rozumiesz, że nie natkniesz się na żadnych ocalałych. Skoncentruj się na znalezieniu danych naukowców i wycofaj się stamtąd.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_5">
-		<text>How do we know there are no survivors left?</text>
+		<text>Skąd wiemy, że nikt nie przeżył?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_6">
-		<text>We caught a distress signal as soon as shit hit the fan. It all went quiet, and no one even tried making radio contact. I doubt anyone made it.</text>
+		<text>Złapaliśmy sygnał alarmowy, gdy tylko gówno uderzyło w wentylator. Wszystko ucichło i nikt nawet nie próbował nawiązać kontaktu radiowego. Wątpię, żeby komukolwiek się udało.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_7">
-		<text>Understood. Permission to be dismissed, sir.</text>
+		<text>Zrozumiałem. Pozwolenie na zwolnienie, sir.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_8">
-		<text>Granted, lieutenant.</text>
+		<text>Zgoda, poruczniku.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_start_second_dialog_9">
-		<text>Thank you. I'm off.</text>
+		<text>Dziękuję. Odchodzę.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_0">
-		<text>Hey, boss!</text>
+		<text>Hej, szefie!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_1">
-		<text>Hi. I see you're exercising here? Attaboys. You don't waste time.</text>
+		<text>Cześć. Widzę, że tu ćwiczycie? Dobra robota. Nie marnujecie czasu.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_2">
-		<text>What else is there to do? We're burning sunshine here. Anyway, I heard the colonel called you? Did they really trust us with something better than guarding expeditions?</text>
+		<text>Co innego mamy robić? Tutaj tracimy czas. W każdym razie, słyszałem, że pułkownik cię wołał? Naprawdę powierzyli nam coś więcej niż tylko pilnowanie ekspedycji?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_3">
-		<text>They did. Tomorrow morning, we fly to lake Yantar. The mobile bunker's flooded there, and the scientists aren't making any radio contact. I'm told there are zero survivors, so we need to concentrate on finding research data. Wake up Sky, finish up your training, and get in gear. I'll go talk to another passenger of ours.</text>
+		<text>Tak. Jutro rano lecimy nad jezioro Jantar. Tamtejszy mobilny bunkier został zalany, a naukowcy nie nawiązują kontaktu radiowego. Mówiono mi, że nie ma żadnych ocalałych, więc musimy skupić się na znalezieniu danych badawczych. Obudź Sky'ego, skończ trening i przygotuj sprzęt. Pójdę porozmawiać z innym naszym pasażerem.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_4">
-		<text>Who's that?</text>
+		<text>Kim jest?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_5_1">
-		<text>Koval. The colonel insisted he come with us, though I have no idea why. I'll go find out what kind of guy that is... sounds too slippery for my liking.</text>
+		<text>Koval. Pułkownik nalegał, aby z nami poleciał, choć nie mam pojęcia, dlaczego. Pójdę sprawdzić, jaki to gość... brzmi na zbyt śliskiego dla mojego gustu.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_5_2">
-		<text>Koval. The colonel insisted he come with us, though I have no idea why. I talked to him, and he's real sketchy...</text>
+		<text>Koval. Pułkownik nalegał, aby z nami poleciał, choć nie mam pojęcia, dlaczego. Rozmawiałem z nim i jest naprawdę podejrzany...</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_6">
-		<text>Well, don't think about it too much. We'll go get our equipment.</text>
+		<text>Nie myśl o tym za dużo. Pójdziemy po nasz sprzęt.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_7">
-		<text>Go on.</text>
+		<text>No dalej.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_0">
-		<text>Oh, hey.</text>
+		<text>O, hej.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_1">
-		<text>Didn't the colonel tell you? Tomorrow morning, you're going with my squad to Yantar.</text>
+		<text>Pułkownik ci nie powiedział? Jutro rano lecisz z moim oddziałem do Jantaru.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_2">
-		<text>He told me.</text>
+		<text>Powiedział mi.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_3">
-		<text>So what the hell are you doing here?</text>
+		<text>Więc co ty tu do diabła robisz?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_4">
-		<text>I'm all set for the flight. Don't work yourself up.</text>
+		<text>Jestem gotowy do lotu. Nie denerwuj się.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_5">
-		<text>The question stands. What are you doing here?</text>
+		<text>Pytanie pozostaje. Co tu robisz?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_6">
-		<text>Why's that matter to you?</text>
+		<text>Co cię to obchodzi?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_7">
-		<text>From this moment on, I am your commanding officer. If I ask you anything, you answer. I give you an order, you carry it out. Understood?</text>
+		<text>Od tego momentu jestem twoim dowódcą. Jeśli cię o coś pytam, odpowiadasz. Daję ci rozkaz, wykonujesz. Zrozumiałeś?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_8">
-		<text>Understood, understood. Easy, just wanted to stretch my legs. There's plenty of time before we head off.</text>
+		<text>Zrozumiałeś, zrozumiałeś. Spokojnie, tylko chciałem się przespacerować. Jest jeszcze sporo czasu przed wylotem.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_9">
-		<text>You know our objective?</text>
+		<text>Znasz nasz cel?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_10">
-		<text>The colonel gave me a quick rundown.</text>
+		<text>Pułkownik szybko mi to wyjaśnił.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_11">
-		<text>Good. We'll discuss details on the way to Yantar. Go get ready, and do message me about any and all movements. You want to stretch your legs or take a piss, you report to me. Clear?</text>
+		<text>Dobrze. Szczegóły omówimy w drodze do Jantaru. Przygotuj się i informuj mnie o każdym swoim ruchu. Chcesz się przespacerować lub załatwić, zgłaszasz mi to. Jasne?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_12">
-		<text>Clear, commander. Clear.</text>
+		<text>Jasne, komandorze. Jasne.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_koval_before_sending_dialog_13">
-		<text>I'll see you before dawn.</text>
+		<text>Zobaczymy się przed świtem.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_0">
-		<text>Morning! Sleep well?</text>
+		<text>Dzień dobry! Dobrze spałeś?</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_1">
-		<text>Morning. I suppose... though my head's splitting. Seems we had a real good time yesterday.</text>
+		<text>Dzień dobry. Chyba tak... choć mam rozbitą głowę. Wygląda na to, że wczoraj dobrze się bawiliśmy.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_2">
-		<text>A real good time, yeah. I had to keep you on a leash so you wouldn't thrash the whole barracks. The boys next door even came by a few times and asked you to keep it down.</text>
+		<text>Dobra zabawa, tak. Musiałem cię trzymać na smyczy, żebyś nie zdemolował całych koszar. Chłopaki z sąsiedniego pokoju nawet kilka razy przychodzili i prosili, żebyś się uspokoił.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_3">
-		<text>Man, if the colonel finds out...</text>
+		<text>Chłopie, jak pułkownik się dowie...</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_4">
-		<text>He stopped by this morning and asked you to see him in his office when you wake up. We gave him the full report, and our compensatory time hasn't ended yet. I wonder what he wants?</text>
+		<text>Wpadł tu dziś rano i kazał ci się zgłosić w jego biurze, jak wstaniesz. Złożyliśmy mu pełny raport, a nasz czas rekompensaty jeszcze się nie skończył. Ciekawe, czego chce?</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_5">
-		<text>Hope he doesn't charge us for drinking.</text>
+		<text>Mam nadzieję, że nie będzie nas obciążał za picie.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_6">
-		<text>Nah, he seemed to be in a good mood. Don't worry, he's not gonna shout at you or anything.</text>
+		<text>Nie, wydawał się być w dobrym humorze. Nie martw się, nie będzie na ciebie krzyczał ani nic takiego.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_after_yantar_start_dialog_7">
-		<text>We'll see. Maybe he's got some small work for us. I'll go clean up and talk to him.</text>
+		<text>Zobaczymy. Może ma jakąś drobną robotę dla nas. Idę się ogarnąć i z nim porozmawiać.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_0">
-		<text>Hey, Zhuravlyov. Back on your feet after the operation? You looked exhausted after coming back.</text>
+		<text>Hej, Żurawliow. Już na nogach po operacji? Wyglądałeś na wyczerpanego po powrocie.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_1">
-		<text>Alive and kicking, as you can see.</text>
+		<text>Żywy i kopiący, jak widzisz.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_2">
-		<text>How are things at Yantar? Must be hell, since stalkers don't go there?</text>
+		<text>Jak tam w Jantarze? Musi być piekło, skoro stalkerzy tam nie chodzą?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_3">
-		<text>The colonel asked me to keep it classified - you'll have to ask him yourself. I can only say that this place is a five-star resort in comparison. How are you, what's new?</text>
+		<text>Pułkownik kazał mi to utajnić - będziesz musiał sam go zapytać. Mogę tylko powiedzieć, że w porównaniu z tym miejscem to pięciogwiazdkowy kurort. Jak się masz, co nowego?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_4">
-		<text>One of our scientists went missing. What's his name... Ah, yeah! Dubinin! We gathered all personnel two days ago and combed the entirety of Agroprom... but nope, no signs of him. Came upon a stalker camp and asked them, "Did you see anyone here?" The mentioned some mercenaries hanging by the tunnel. I don't know whether that has anything to do with it, but we have no other clues.</text>
+		<text>Jeden z naszych naukowców zaginął. Jak on miał... A, tak! Dubinin! Zebraliśmy cały personel dwa dni temu i przeczesałem cały Agroprom... ale nic, żadnych śladów. Natknęliśmy się na obóz stalkerów i zapytaliśmy ich, "Widzieliście tu kogoś?" Wspomnieli o jakichś najemnikach koło tunelu. Nie wiem, czy to ma coś wspólnego, ale nie mamy innych tropów.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_5">
-		<text>So did they call off the search?</text>
+		<text>Więc odwołali poszukiwania?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_6">
-		<text>Hah! No way. This is Dubinin we're talking about. He's no run-of-the-mill lab assistant; his security's top-notch, and he's got tons of field assistants at his disposal. Until they find him, whether he's alive or dead in a ditch, the colonel's not letting up on this. Want a smoke?</text>
+		<text>Ha! Skąd. Mówimy o Dubininie. To nie byle jaki laborant; jego ochrona jest na najwyższym poziomie, ma mnóstwo asystentów terenowych. Dopóki go nie znajdą, czy to żywego, czy martwego w rowie, pułkownik nie odpuści. Zaciągniesz się?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_7">
-		<text>No, thanks.</text>
+		<text>Nie, dzięki.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_8">
-		<text>And that other guy, what's his name... Ah, yeah! Koval! I hear he joined you for the operation?</text>
+		<text>A ten inny gość, jak on miał... A, tak! Koval! Słyszałem, że dołączył do was na operacji?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_9">
-		<text>I dunno. Something's off with him. What matters is that he didn't mess up the operation, and it's good the colonel didn't permanently assign him to our squad. I have far less trust in former stalkers than in any of our men. What do *you* say about joining us?</text>
+		<text>Nie wiem. Coś jest z nim nie tak. Ważne, że nie schrzanił operacji i dobrze, że pułkownik nie przydzielił go na stałe do naszego oddziału. Mam znacznie mniej zaufania do byłych stalkerów niż do któregokolwiek z naszych ludzi. Co ty na to, by do nas dołączyć?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_10">
-		<text>Hah. Thanks for the offer, but how can I leave my own guys?</text>
+		<text>Ha. Dzięki za ofertę, ale jak mogę zostawić moich własnych ludzi?</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_11">
-		<text>Sure, okay. I'll be going now. The colonel wanted me.</text>
+		<text>Jasne, ok. Idę teraz. Pułkownik mnie chciał.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_12">
-		<text>Alright. He probably has something to say about Dubinin.</text>
+		<text>Pewnie ma coś do powiedzenia o Dubininie.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_start_dialog_13">
-		<text>We'll see.</text>
+		<text>Zobaczymy.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_idle_dialog_0_1">
-		<text>Zhuravlyov? I'm all ears.</text>
+		<text>Żurawliow? Słucham uważnie.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_idle_dialog_0_2">
-		<text>Say it.</text>
+		<text>Mów.</text>
 	</string>
 
 	<string id="agr_scientists_base_washboard_soldier_idle_dialog_0_3">
-		<text>Tell me what you've got.</text>
+		<text>Powiedz mi, co masz.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_0">
-		<text>There you are!</text>
+		<text>Oto jesteś!</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_1">
-		<text>Sir.</text>
+		<text>Proszę pana.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_2">
-		<text>You're finally awake. How's your head? Koval was just giving me a report on the black smoke substance you saw. We might have to send another expedition to Yantar, but with research assistants this time. Such phenomena need reviewing.</text>
+		<text>W końcu obudziłeś się. Jak się czujesz? Koval właśnie składał mi raport o tej czarnej dymnej substancji, którą widzieliście. Możemy musieć wysłać kolejną ekspedycję do Jantaru, ale tym razem z asystentami badawczymi. Takie zjawiska wymagają przeglądu.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_3">
-		<text>So that means we're off to Yantar again?</text>
+		<text>Czyli znów jedziemy do Jantaru?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_4">
-		<text>No. Others will worry about that. I'm assigning you to something else.</text>
+		<text>Nie. Inni się tym zajmą. Przydzielam cię do czegoś innego.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_5">
-		<text>I'm listening.</text>
+		<text>Słucham.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_6">
-		<text>We had a little emergency while you were away. Don't know if I can call it "little"... Dubinin, one of the scientists, went missing - he was one of the leading assistants in this facility. He was head of several research projects, so his case is now conducted directly by administration. Your task is to find him, and preferably in one piece. If he's dead, at least we'll know not to look for him anymore.</text>
+		<text>Mieliśmy mały kryzys podczas twojej nieobecności. Nie wiem, czy mogę to nazwać "małym"... Dubinin, jeden z naukowców, zaginął - był jednym z głównych asystentów w tym obiekcie. Kierował kilkoma projektami badawczymi, więc jego sprawa jest teraz prowadzona bezpośrednio przez administrację. Twoim zadaniem jest go znaleźć, najlepiej w jednym kawałku. Jeśli nie żyje, przynajmniej będziemy wiedzieć, że nie ma sensu go szukać.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_7">
-		<text>Any specific information that will aid the search?</text>
+		<text>Jakieś konkretne informacje, które pomogą w poszukiwaniach?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_8">
-		<text>Specific? Not much. After his disappearance, we gathered a scouting group that searched every inch of Agroprom, but they found no traces, only some undocumented stalkers that told them about an armed mercenary squad near the railway tunnel. We don't know what people they were.</text>
+		<text>Konkretne? Nie wiele. Po jego zniknięciu zebraliśmy grupę zwiadowczą, która przeszukała każdy cal Agropromu, ale nie znaleźli śladów, tylko kilku nieudokumentowanych stalkerów, którzy mówili im o uzbrojonym oddziale najemników w pobliżu tunelu kolejowego. Nie wiemy, kim byli ci ludzie.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_9">
-		<text>Did the search not go beyond Agroprom?</text>
+		<text>Czy poszukiwania nie wyszły poza Agroprom?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_10">
-		<text>That's where you come in. We'd rather not attract attention and send off entire squads. We need one man we can rely on, someone who won't blow it, and I'm sure you've got what it takes. Just don't screw it up out of nowhere, all right?</text>
+		<text>Tutaj wchodzisz ty. Wolimy nie zwracać uwagi i nie wysyłać całych oddziałów. Potrzebujemy jednego człowieka, na którym możemy polegać, kogoś, kto nie zepsuje sprawy, i jestem pewien, że dasz radę. Tylko nie schrzań tego znikąd, dobra?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_11">
-		<text>Task is clear, but I need to understand where to commence the search.</text>
+		<text>Zadanie jasne, ale muszę wiedzieć, gdzie zacząć poszukiwania.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_12">
-		<text>Here's the situation: Dubinin was doing research on artifacts and anomalies, often leaving the facility personally with a milstalker escort. He's spent a lot of time with them - they might know something, or at least give you pointers. And for this one, you'll need to try a lot of pointers...</text>
+		<text>Oto sytuacja: Dubinin prowadził badania nad artefaktami i anomaliami, często opuszczając obiekt osobiście z eskortą milstalkera. Spędził z nimi dużo czasu - mogą coś wiedzieć, albo przynajmniej dać ci wskazówki. A do tego zadania będziesz potrzebował wielu wskazówek...</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_13">
-		<text>What do you mean?</text>
+		<text>Co masz na myśli?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_14">
-		<text>Dubinin left the facility and simply vanished into thin air. Alone. And it's anyone's guess where the hell he is. Did he break his contract and go AWOL? Or was he abducted by those mercenaries? Maybe he learned something while researching that made him leave the Zone? There's a lot to speculate about. One more thing: word says he was seen with some stalker, but the reports make no mention of it. It's best we find out who this is.</text>
+		<text>Dubinin opuścił obiekt i po prostu zniknął w powietrzu. Sam. I czyjeś zgadywanie, gdzie do diabła jest. Czy zerwał kontrakt i zdezerterował? Czy został porwany przez tych najemników? Może dowiedział się czegoś podczas badań, co sprawiło, że opuścił Strefę? Jest wiele spekulacji. Jeszcze jedno: mówi się, że widziano go z jakimś stalkerem, ale raporty o tym nie wspominają. Najlepiej dowiedzieć się, kim jest ta osoba.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_15">
-		<text>Understood. I'll begin right away. Can I bring my boys?</text>
+		<text>Rozumiem. Zaczynam od razu. Mogę zabrać moich chłopaków?</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_16">
-		<text>Do as you see fit. Just remember that everything needs to be done quietly. If you and your entire squad tail Dubinin all at once, it could sabotage everything. You can also count on Koval - he'll be assigned to your squad.</text>
+		<text>Rób, jak uważasz. Tylko pamiętaj, że wszystko musi być zrobione cicho. Jeśli ty i cały twój oddział zaczniecie śledzić Dubinina naraz, może to wszystko zepsuć. Możesz też liczyć na Kovala - zostanie przydzielony do twojego oddziału.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_17">
-		<text>We have no need for him! We'll manage any task without him.</text>
+		<text>Nie potrzebujemy go! Poradzimy sobie bez niego.</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_18">
-		<text>We've already gone through this! He'll be with you. Look after him - he's a decent man, and his knowledge could be of use. Now, go! Report everything directly to me!</text>
+		<text>Już to przerabialiśmy! Będzie z tobą. Pilnuj go - to porządny człowiek, a jego wiedza może być przydatna. Teraz idź! Zgłaszaj wszystko bezpośrednio mnie!</text>
 	</string>
 
 	<string id="agr_scientists_base_colonel_after_yantar_dialog_19">
-		<text>Yes, sir...</text>
+		<text>Tak jest...</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_0">
-		<text>Hey, good morning!</text>
+		<text>Hej, dzień dobry!</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_1">
-		<text>It's afternoon already, lazy bones! I just visited the colonel, and he's got a new mission.</text>
+		<text>Już po południu, śpiochu! Właśnie odwiedziłem pułkownika i mam nową misję.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_2">
-		<text>Oh, sweet! When are we moving? Where are we moving?</text>
+		<text>O, świetnie! Kiedy wyruszamy? Dokąd jedziemy?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_3">
-		<text>Easy, tiger. For now, I'll be operating on my own, but it's important you stay in touch. I might need help at any moment.</text>
+		<text>Spokojnie, tygrysie. Na razie działam sam, ale ważne, żebyś był w kontakcie. Mogę w każdej chwili potrzebować pomocy.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_4">
-		<text>No problem. What's the mission?</text>
+		<text>Żaden problem. O co chodzi w misji?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_5">
-		<text>A scientist disappeared from the facility into thin air. Either he was killed or ran on his own; maybe he died in an anomaly somewhere. I need to look into this and ask the right people. In the meantime, you should try going through the stalker network. We're looking for any mention of the scientists, mercenaries and everything that could help, so get up and get to work. You find anything, report to me.</text>
+		<text>Naukowiec zniknął z obiektu jak kamfora. Albo został zabity, albo uciekł sam; może zginął w jakiejś anomalii. Muszę to zbadać i zapytać odpowiednich ludzi. Tymczasem ty powinieneś spróbować przejrzeć sieć stalkerów. Szukamy wszelkich informacji o naukowcach, najemnikach i wszystkim, co może pomóc, więc wstań i weź się do roboty. Jeśli coś znajdziesz, zgłoś mi.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_6">
-		<text>Understood. I'll get on it.</text>
+		<text>Rozumiem. Zabieram się za to.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_yantar_dialog_7">
-		<text>I'll be waiting for updates.</text>
+		<text>Czekam na aktualizacje.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_0">
-		<text>What do ya need?...</text>
+		<text>Czego potrzebujesz?...</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_1">
-		<text>Sorry for bothering. I've got a question for you.</text>
+		<text>Przepraszam za przeszkadzanie. Mam do ciebie pytanie.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_2">
-		<text>You're not the right rank to be asking me questions. I'm sleeping... Come back later.</text>
+		<text>Nie masz odpowiedniej rangi, żeby zadawać mi pytania. Śpię... Wróć później.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_3">
-		<text>Hey, I need to ask you something!</text>
+		<text>Hej, muszę cię o coś zapytać!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_0">
-		<text>I told you I'm sleeping! What do you want?!</text>
+		<text>Mówiłem, że śpię! Czego chcesz?!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_1">
-		<text>I said I need to ask you something. Get up and cut the attitude!</text>
+		<text>Powiedziałem, że muszę cię o coś zapytać. Wstań i odstaw ten ton!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_2">
-		<text>Two words for you: get lost.</text>
+		<text>Dwa słowa dla ciebie: spadaj.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_3">
-		<text>Alright then. I'll just report that Cord refused to testify about professor Dubinin's disappearance, making him the prime suspect. Go back to sleep.</text>
+		<text>W takim razie po prostu zgłoszę, że Cord odmówił zeznań na temat zniknięcia profesora Dubinina, czyniąc go głównym podejrzanym. Śpij dalej.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_4">
-		<text>Hey, wait! I didn't realize what you wanted. What do you want to ask?</text>
+		<text>Hej, czekaj! Nie zrozumiałem, o co ci chodzi. O co chcesz zapytać?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_5">
-		<text>You were part of the professor's escort during his field trips in the Zone. Tell me: where have you been, who have you met, have you noticed anything strange?</text>
+		<text>Byłeś częścią eskorty profesora podczas jego wypraw terenowych w Strefie. Powiedz mi: gdzie byliście, kogo spotkaliście, czy zauważyłeś coś dziwnego?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_6">
-		<text>Same old, same old: we go around one anomaly or the other.</text>
+		<text>Jak zwykle: obchodzimy jedną anomalie albo drugą.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_7">
-		<text>Was there anything strange about his behavior?</text>
+		<text>Czy było coś dziwnego w jego zachowaniu?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_8">
-		<text>Those scientists always act strange. They mumble something to themselves and get happy, mad, or upset depending on what the numbers on their devices say. Dubinin was always calm, though - I never noticed anything strange about him.</text>
+		<text>Ci naukowcy zawsze zachowują się dziwnie. Mamroczą coś pod nosem i cieszą się, złością lub martwią w zależności od tego, co pokazują ich urządzenia. Dubinin był jednak zawsze spokojny - nigdy nie zauważyłem niczego dziwnego w jego zachowaniu.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_9">
-		<text>Did he share any plans with you? Any random remarks?</text>
+		<text>Czy dzielił się z tobą jakimiś planami? Jakieś przypadkowe uwagi?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_10">
-		<text>During all our trips, he did his work in complete silence... unlike many others.</text>
+		<text>Podczas wszystkich naszych wypraw pracował w kompletnym milczeniu... inaczej niż wielu innych.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_11">
-		<text>When did you last see him?</text>
+		<text>Kiedy ostatnio go widziałeś?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_12">
-		<text>'Bout five days ago. We were leading him toward the Swamps, and then he watched something through his binoculars. Then we went back to base.</text>
+		<text>Około pięć dni temu. Prowadziliśmy go w stronę Bagien, a potem obserwował coś przez lornetkę. Potem wróciliśmy do bazy.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_13">
-		<text>Аny thoughts about his disappearance?</text>
+		<text>Jakieś przemyślenia na temat jego zniknięcia?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_14">
-		<text>No freakin' clue. Maybe he went off somewhere alone and got into an anomaly. We have eggheads disappearing every other day, don't we?</text>
+		<text>Ani zielonego pojęcia. Może udał się gdzieś sam i wpadł w anomalię. Mamy naukowców, którzy znikają co drugi dzień, prawda?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_15">
-		<text>Ever been new faces in your group that was escorting him?</text>
+		<text>Czy były nowe twarze w twojej grupie, która go eskortowała?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_16">
-		<text>Nope. And he's been our only mission all this time.</text>
+		<text>Nie. I przez cały ten czas był naszą jedyną misją.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_17">
-		<text>Where's your squad right now?</text>
+		<text>Gdzie teraz jest twój oddział?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_18">
-		<text>Kridov's on a mission. I think Longboat went to eat.</text>
+		<text>Kridow jest na misji. Myślę, że Longboat poszedł jeść.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_19">
-		<text>Alright. If you think of anything else, message me on my PDA.</text>
+		<text>Dobrze. Jeśli przypomnisz sobie coś jeszcze, wyślij mi wiadomość na PDA.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_0">
-		<text>Yeah?</text>
+		<text>Tak?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_1">
-		<text>Sorry to interrupt, but I have an urgent question regarding Dubinin. You know what happened to him.</text>
+		<text>Przepraszam za przeszkadzanie, ale mam pilne pytanie dotyczące Dubinina. Wiesz, co się z nim stało.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_2">
-		<text>That he disappeared? Yeah, everyone knows 'bout that.</text>
+		<text>Że zniknął? Tak, wszyscy o tym wiedzą.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_3">
-		<text>What do you have to say about it?</text>
+		<text>Co możesz powiedzieć na ten temat?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_4">
-		<text>I mean... what's there to say?</text>
+		<text>Mam na myśli... co tu można powiedzieć?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_5">
-		<text>You did guard him, so you're the first ones I'll ask.</text>
+		<text>Chroniliście go, więc to do was najpierw zwracam się z pytaniami.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_6">
-		<text>We did, but that was when we were ordered to escort a research assistant, and he disappeared once he stopped being our responsibility. We're not gonna watch him whenever he goes for a leak, are we? Sorry, but that's not in the contract.</text>
+		<text>Chroniliśmy, ale tylko gdy mieliśmy rozkaz eskortować asystenta badawczego, a on zniknął, kiedy przestał być naszą odpowiedzialnością. Nie będziemy go pilnować za każdym razem, gdy idzie się załatwić, prawda? Przykro mi, ale to nie jest w kontrakcie.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_7">
-		<text>Did you notice anything strange during the escort? You didn't see him meeting with anyone outside the facility, mentioning anything specific to you or worrying about anything?</text>
+		<text>Czy zauważyłeś coś dziwnego podczas eskorty? Nie widziałeś go spotykającego się z kimś poza obiektem, wspominającego wam coś konkretnego lub martwiącego się o coś?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_8">
-		<text>He was always one hundred percent calm and collected. We'd reach the target, he'd do his measurements or make his notes, and we'd leave. No remarkable moments, no conversation, business and only business.</text>
+		<text>Zawsze był sto procent spokojny i opanowany. Dochodziliśmy do celu, robił swoje pomiary lub notatki i wyjeżdżaliśmy. Żadnych niezwykłych momentów, żadnych rozmów, tylko i wyłącznie interes.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_9">
-		<text>What are your thoughts on where he might've gone?</text>
+		<text>Jakie są twoje przemyślenia na temat tego, dokąd mógł pójść?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_10">
-		<text>Who knows? He never shared anything with us - always kept to himself. If you ask me, he probably stopped bothering with us and made his next anomaly trip by himself... and you're not getting out of that alive without the right skill set. I think that's where you need to direct your investigation.</text>
+		<text>Kto wie? Nigdy nic z nami nie dzielił - zawsze trzymał się na uboczu. Jeśli mnie pytasz, to pewnie przestał się nami przejmować i wybrał się sam na swoją kolejną wyprawę do anomalii... i bez odpowiednich umiejętności z tego się nie wraca żywym. Myślę, że to tam powinieneś skierować swoje śledztwo.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_11">
-		<text>Alright. Eat up before it gets cold. Message me on my PDA if anything comes up. You'll be rewarded for any assistance.</text>
+		<text>Dobrze. Zjedz, zanim ostygnie. Wyślij mi wiadomość na PDA, jeśli coś się wydarzy. Zostaniesz wynagrodzony za pomoc.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_0">
-		<text>Well, look who decided to visit our swamp! What are you doing here?</text>
+		<text>O, patrz kto zdecydował się odwiedzić nasze bagno! Co tu robisz?</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_1">
-		<text>I've got some questions for you regarding professor Dubinin.</text>
+		<text>Mam kilka pytań do ciebie na temat profesora Dubinina.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_2">
-		<text>Well, I'm not surprised. We're sick and tired of people asking us about him.</text>
+		<text>Nie jestem zdziwiony. Mamy już dość ludzi pytających o niego.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_3">
-		<text>I don't doubt that, but it's best you answer. The more details, the better.</text>
+		<text>Nie wątpię, ale najlepiej będzie, jeśli odpowiesz. Im więcej szczegółów, tym lepiej.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_4">
-		<text>Ask and I'll try to help.</text>
+		<text>Pytaj, a ja postaram się pomóc.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_5">
-		<text>You and your men escorted Dubinin on field trips. Did you notice anything strange about his behavior? Did he meet anyone outside the facility or tell you anything that might hint at his disappearance?</text>
+		<text>Ty i twoi ludzie eskortowaliście Dubinina na wyprawy terenowe. Czy zauważyłeś coś dziwnego w jego zachowaniu? Czy spotykał się z kimś poza obiektem lub powiedział ci coś, co mogłoby wskazywać na jego zniknięcie?</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_6">
-		<text>Out of all the eggheads I've had to work with, he was the most reserved. Ask him anything and he'll answer strictly according to protocol: "Soldier, your job is to hold that gun and keep your eyes sharp." I wanted to ask him about the properties of a few artifacts, but I never got anything out of him.</text>
+		<text>Spośród wszystkich naukowców, z którymi musiałem pracować, on był najbardziej powściągliwy. Zapytaj go o cokolwiek, a odpowie ściśle według protokołu: "Żołnierzu, twoim zadaniem jest trzymać tę broń i mieć oczy szeroko otwarte." Chciałem go zapytać o właściwości kilku artefaktów, ale nigdy nic od niego nie dostałem.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_7">
-		<text>Why did you want to ask that?</text>
+		<text>Dlaczego chciałeś o to zapytać?</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_8">
-		<text>When I was still a regular stalker in the Zone, I almost lost a friend... well, let's say I did lose him. He just now made it back to the outside - with a mutilated body. I want to help him somehow. I've heard stories about artifacts that can heal, which might help him... but the professor told me nothing, and I haven't learned anything useful.</text>
+		<text>Gdy byłem jeszcze zwykłym stalkerem w Strefie, prawie straciłem przyjaciela... no, powiedzmy, że go straciłem. Dopiero teraz wrócił na zewnątrz - z okaleczonym ciałem. Chcę mu jakoś pomóc. Słyszałem historie o artefaktach, które mogą leczyć, co mogłoby mu pomóc... ale profesor nic mi nie powiedział i niczego pożytecznego się nie dowiedziałem.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_9">
-		<text>You understand he's tied by a contract. Giving out such information could land him in court.</text>
+		<text>Rozumiesz, że jest związany kontraktem. Udzielanie takich informacji mogłoby go zaprowadzić do sądu.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_10">
-		<text>Yeah, I get that. Screw it all.</text>
+		<text>Tak, rozumiem. Do diabła z tym wszystkim.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_11">
-		<text>I've heard Dubinin hung around with some stalker. Do you know anything about that?</text>
+		<text>Słyszałem, że Dubinin zadawał się z jakimś stalkerem. Wiesz coś na ten temat?</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_12">
-		<text>There was no one like that during our escorts, so I can't say anything.</text>
+		<text>Podczas naszych eskort nie było nikogo takiego, więc nie mogę nic powiedzieć.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_13">
-		<text>Are there any clues you could point me at? He couldn't have vanished into thin air.</text>
+		<text>Czy są jakieś wskazówki, na które mógłbyś mnie naprowadzić? Nie mógł po prostu zniknąć w powietrzu.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_14">
-		<text>You're looking in the wrong place, Zhuravlyov. Look in places he might've had a hard-on for to the point he'd leave without an escort. No wonder he hasn't returned - go anywhere alone and you're done in a second. If I were on search duty, I would've checked each of the anomalous zones in the vicinity. That's all I can say, really.</text>
+		<text>Szukasz w złym miejscu, Żurawliow. Szukaj w miejscach, które mogły go tak interesować, że opuściłby je bez eskorty. Nic dziwnego, że nie wrócił - idź gdziekolwiek sam, a w sekundę jesteś skończony. Gdybym był na służbie poszukiwawczej, sprawdziłbym każdą z anomalią w okolicy. To wszystko, co mogę powiedzieć.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_start_dialog_15">
-		<text>Alright. Keep in touch if I have any further questions. If you recall anything or find anything out, message me ASAP.</text>
+		<text>Dobrze. Będę w kontakcie, jeśli będę miał więcej pytań. Jeśli sobie coś przypomnisz lub dowiesz się czegoś, wyślij mi wiadomość jak najszybciej.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_0">
-		<text>Did you see that? Not an ounce of help from those four-eyed jackasses!</text>
+		<text>Widziałeś to? Ani odrobiny pomocy od tych czterookich dupków!</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_1">
-		<text>They need to be looked after like kids, that's for sure...</text>
+		<text>Trzeba za nimi pilnować jak za dziećmi, to na pewno...</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_2">
-		<text>When I get back, I'll PT them until their sphincters are sucking buttermilk. And you, thanks for the help. We'd be done for if it were just the two of us.</text>
+		<text>Jak wrócę, zrobię z nimi trening fizyczny, aż im się odwłoki zaczną ssać maślankę. A ty, dzięki za pomoc. Bylibyśmy skończeni, gdybyśmy byli tylko we dwóch.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_3">
-		<text>The gunshots didn't help you remember anything about Dubinin, did they?</text>
+		<text>Strzały nie przypomniały ci niczego o Dubininie, prawda?</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_4">
-		<text>Dubinin... Well, you see, he... Ah, forget it.</text>
+		<text>Dubinin... Wiesz co, on... Ach, zapomnij.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_5">
-		<text>What? What did you want to say?</text>
+		<text>Co? Co chciałeś powiedzieć?</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_6">
-		<text>Nothing! Just know that he isn't such a saint after all for you to be chasing after him. Good luck in your search, Zhuravlyov... Unfortunately, I have nothing to add. Bye.</text>
+		<text>Nic! Tylko wiedz, że on nie jest takim świętym, za jakiego go goniłeś. Powodzenia w poszukiwaniach, Żurawliow... Niestety, nie mam nic do dodania. Do widzenia.</text>
 	</string>
 
 	<string id="agr_soldier_tonnel_boss_second_dialog_7">
-		<text>Okay then. Bye.</text>
+		<text>W takim razie do widzenia.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_0">
-		<text>Hey there, detective!</text>
+		<text>Cześć, detektywie!</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_1">
-		<text>Right now, I wouldn't really call myself a detective.</text>
+		<text>Teraz raczej nie nazwałbym siebie detektywem.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_2">
-		<text>What about the body by the anomaly? Could that be Dubinin?</text>
+		<text>A co z ciałem przy anomalii? To może być Dubinin?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_3">
-		<text>We're about to find out. Here, take this.</text>
+		<text>Zaraz się dowiemy. Weź to.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_4">
-		<text>Ew. Why'd you bring that here?</text>
+		<text>Fuj. Po co to tu przyniosłeś?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_5">
-		<text>We need to see this through and make sure these remains really do belong to Dubinin. This whole thing seems too good to be true, don't you think?</text>
+		<text>Musimy to sprawdzić i upewnić się, że te szczątki naprawdę należą do Dubinina. Cała ta sprawa wydaje się zbyt piękna, żeby była prawdziwa, nie sądzisz?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_6">
-		<text>What do you mean?</text>
+		<text>Co masz na myśli?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_7">
-		<text>Our milstalker "colleagues" all claim the same thing: that Dubinin might've died in an anomaly. I noticed the remains of someone in a scientific suit, but... damn, you could see that anomaly from a mile away. Are we supposed to believe Dubinin just waltzed right into it, considering his experience? The only way I'm buying that is if we get positive DNA evidence, so grab this piece of anatomy and give it to the right person.</text>
+		<text>Nasi "koleżanki" i "koledzy" z milstalkera twierdzą to samo: że Dubinin mógł zginąć w anomalii. Zauważyłem szczątki kogoś w naukowym kombinezonie, ale... cholera, tę anomalię można było dostrzec z kilometra. Czy naprawdę mamy uwierzyć, że Dubinin tak po prostu w nią wszedł, biorąc pod uwagę jego doświadczenie? Przyjmę to do wiadomości tylko, jeśli otrzymamy pozytywny dowód DNA, więc weź ten kawałek anatomii i oddaj go odpowiedniej osobie.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_8">
-		<text>You're right. Wouldn't hurt to check. I'll hand it to Hottab, since he's good at that stuff. You think our colleagues might've conspired to lie about the professor's disappearance?</text>
+		<text>Masz rację. Nie zaszkodzi sprawdzić. Dam to Hottabowi, bo on jest w tym dobry. Myślisz, że nasi koledzy mogli zawiązać spisek, by skłamać o zniknięciu profesora?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_9">
-		<text>That's a possibility. Kridov seems the most suspicious to me.</text>
+		<text>To możliwe. Kridow wydaje mi się najbardziej podejrzany.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_10">
-		<text>You think he has a part in the disappearance?</text>
+		<text>Myślisz, że miał swój udział w zniknięciu?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_11">
-		<text>My belief is that he knows something but just isn't telling us. He's a good man and wouldn't have resorted to murder, but that's the same reason he doesn't want to set anyone up and spill the truth. We'll just have to wait for the DNA evidence. Did you dig anything up?</text>
+		<text>Moje przekonanie jest takie, że coś wie, ale nam tego nie mówi. To dobry człowiek i nie posunąłby się do morderstwa, ale to też powód, dla którego nie chce nikogo wrobić i wyjawić prawdę. Musimy poczekać na wyniki badań DNA. Czy coś odkryłeś?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_12">
-		<text>I tried finding out more about the stalker that hung around with Dubinin. He doesn't appear in the reports, which is already a grave violation of the contract on the professor's part. If you work with a stalker, you need to write down his name in the reports and clarify what kind of assistance he's providing. But he didn't do that. I checked all the records in his chambers, and I've seen this individual on several occasions, even though he's not in the base.</text>
+		<text>Próbowałem dowiedzieć się więcej o stalkerze, który zadawał się z Dubininem. Nie pojawia się w raportach, co już jest poważnym naruszeniem kontraktu ze strony profesora. Jeśli współpracujesz ze stalkerem, musisz zapisać jego imię w raportach i wyjaśnić, jakiego rodzaju pomoc on świadczy. Ale tego nie zrobił. Sprawdziłem wszystkie dokumenty w jego komnacie i widziałem tę osobę kilka razy, mimo że nie ma go w bazie.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_13">
-		<text>I don't know him. Do you?</text>
+		<text>Nie znam go. A ty?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_14">
-		<text>It's my first time too.</text>
+		<text>Też go widzę pierwszy raz.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_15">
-		<text>Judging by his appearance, he seems like an ordinary stalker. And who do you think might know the face of every other stalker in the Zone?</text>
+		<text>Sądząc po wyglądzie, wydaje się być zwykłym stalkerem. I kto twoim zdaniem mógłby znać twarz każdego stalkera w Strefie?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_16">
-		<text>Who?</text>
+		<text>Kto?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_17">
-		<text>Well, Sidorovich, of course!</text>
+		<text>No, Sidorowicz, oczywiście!</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_18">
-		<text>Thinking of visiting him?</text>
+		<text>Myślisz o wizycie u niego?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_19">
-		<text>Absolutely. We find the stalker and find out what Dubinin was doing away from the eyes of his superiors.</text>
+		<text>Zdecydowanie. Znajdziemy stalkera i dowiemy się, co Dubinin robił poza wzrokiem swoich przełożonych.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_20">
-		<text>Do we accompany you?</text>
+		<text>Towarzyszymy ci?</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_21">
-		<text>Keep digging. Read through the stalker network and ask every stalker you know. Maybe something will come up. We'll keep the boys on standby; if I need any help, I'll call.</text>
+		<text>Kontynuujcie kopanie. Przejrzyjcie sieć stalkerów i zapytajcie każdego stalkera, którego znacie. Może coś się pojawi. Chłopaki będą w gotowości; jeśli będę potrzebował pomocy, zadzwonię.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_22">
-		<text>Got it. There's a helo about to transport an expedition to Dytiatky. They might give you a ride; beats going on foot.</text>
+		<text>Rozumiem. Zaraz ma odlecieć helikopter z ekspedycją do Dytiatki. Mogą cię zabrać; lepsze to niż iść na piechotę.</text>
 	</string>
 
 	<string id="agr_soldier_sky_after_search_info_dialog_23">
-		<text>I sure could use the lift. Alright, I'm off.</text>
+		<text>Na pewno przydałby mi się podwiezienie. No dobrze, lecę.</text>
 	</string>
 
 	<string id="agr_scientists_base_pilot_leader_task_escape_dialog_0">
-		<text>Hey!</text>
+		<text>Hej!</text>
 	</string>
 
 	<string id="agr_scientists_base_pilot_leader_task_escape_dialog_1">
-		<text>Hey, Ivanych! You headed for Dytiatky?</text>
+		<text>Hej, Iwanicz! Jedziesz do Dytiatki?</text>
 	</string>
 
 	<string id="agr_scientists_base_pilot_leader_task_escape_dialog_2">
-		<text>Yeah, Zhuravlyov! We're headed south!</text>
+		<text>Tak, Żurawliow! Jedziemy na południe!</text>
 	</string>
 
 	<string id="agr_scientists_base_pilot_leader_task_escape_dialog_3">
-		<text>Could I come with you?</text>
+		<text>Mógłbym z wami pojechać?</text>
 	</string>
 
 	<string id="agr_scientists_base_pilot_leader_task_escape_dialog_4">
-		<text>Wait an hour and we'll let you aboard. These guys gather at turtle speed!</text>
+		<text>Poczekaj godzinę, a zabierzemy cię na pokład. Ci goście zbierają się jak żółwie!</text>
 	</string>
 
 	<string id="agr_scientists_base_pilot_leader_task_escape_dialog_5">
-		<text>Not a problem. Thanks!</text>
+		<text>Żaden problem. Dzięki!</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_0">
-		<text>And who are you? What do you want?</text>
+		<text>A ty kim jesteś? Czego chcesz?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_1">
-		<text>Hi. We came for our boys, the ones lying on the ground. Did you do this?</text>
+		<text>Cześć. Przyszliśmy po naszych chłopaków, tych leżących na ziemi. To ty to zrobiłeś?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_2">
-		<text>No. I was just passing by, doing my own thing, when I got a PDA message saying, "My boys need help" or something.</text>
+		<text>Nie. Akurat przechodziłem, robiąc swoje, kiedy dostałem wiadomość na PDA, że "moi chłopcy potrzebują pomocy" czy coś w tym stylu.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_3">
-		<text>What message? Did you get a name?</text>
+		<text>Jaka wiadomość? Dostałeś jakieś imię?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_4">
-		<text>I don't know, man. I think it might've been professor Smyshlov, though, 'cause it sure wasn't someone in their twenties.</text>
+		<text>Nie wiem, koleś. Myślę, że to mógł być profesor Smyshlov, bo na pewno to nie był ktoś w wieku dwudziestu lat.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_5">
-		<text>What did he want from you?</text>
+		<text>Czego on od ciebie chciał?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_6">
-		<text>He told me to meet up with his wards at these coordinates and lead them where they tell me to. I'd get double payment and a couple of artifacts to boot. And now, here I am.</text>
+		<text>Kazał mi spotkać się z jego podopiecznymi pod tymi współrzędnymi i poprowadzić ich tam, gdzie mi powiedzą. Miałem dostać podwójną zapłatę i parę artefaktów na dodatek. I teraz, oto jestem.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_7">
-		<text>You sure took your time. Time someone else used to gun them down.</text>
+		<text>Trochę ci zajęło. Czas, którego ktoś inny użył, żeby ich zastrzelić.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_8">
-		<text>Well, rushing head-on wherever you go is sure to get you killed in the Zone! And for the record, I did get here on time. I was on the hill when I got to see the punks shoot each other. I'm stressed enough, so cut the crap before I blast someone else!</text>
+		<text>No tak, pędzenie na oślep gdziekolwiek w Strefie to pewna śmierć! A tak na marginesie, zdążyłem na czas. Byłem na wzgórzu, gdy zobaczyłem, jak te łobuzy strzelają do siebie. Jestem wystarczająco zestresowany, więc odpuść sobie te bzdury, zanim kogoś jeszcze zastrzelę!</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_9">
-		<text>They shot at each other?</text>
+		<text>Strzelali do siebie nawzajem?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_10">
-		<text>That's right. They all stood up at the same time and started firing, as if they were given an order.</text>
+		<text>Dokładnie. Wszyscy wstali w tym samym czasie i zaczęli strzelać, jakby dostali rozkaz.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_11">
-		<text>Maybe it was a controller?</text>
+		<text>Może to był kontroler?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_12">
-		<text>Who the hell knows! I haven't seen anything like that here...</text>
+		<text>Kto to wie! Nic takiego tu jeszcze nie widziałem...</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_13">
-		<text>What's your old fart say? Did you talk to him?</text>
+		<text>Co mówi twój stary? Rozmawiałeś z nim?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_14">
-		<text>Not yet, since you're here and all. Listen, boys, we need to get out of here... I can already feel some strange shit is going down.</text>
+		<text>Jeszcze nie, skoro ty tu jesteś i wszystko. Słuchajcie, chłopaki, musimy stąd wyjść... Już czuję, że coś dziwnego się dzieje.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_start_dialog_15">
-		<text>Just a sec. I'll have a talk with my companion.</text>
+		<text>Chwileczkę. Porozmawiam z moim towarzyszem.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_0">
-		<text>This is getting more interesting.</text>
+		<text>To robi się coraz ciekawsze.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_1">
-		<text>What's your take, Cluster?</text>
+		<text>Co ty na to, Cluster?</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_2">
-		<text>What's there to say? We gotta take over the reins. I wish I knew where it would be better. If we contact Turov, who originally ordered the box, then somehow we need to treat him so that Vizir will get away from us, and also get a bit of money for his trouble. If that's the case, then we'll have to send Birdie this... I don't know, send him away. We don't need a leftist, and he's a bit shady, making up stories. I think he shot the survivors of the group.</text>
+		<text>Co tu dużo mówić? Musimy wziąć sprawy w swoje ręce. Chciałbym wiedzieć, gdzie będzie lepiej. Jeśli skontaktujemy się z Turovem, który pierwotnie zamówił skrzynię, to jakoś musimy się z nim ustawić, żeby Vizir od nas odstąpił, a także dostać trochę pieniędzy za kłopot. W takim razie będziemy musieli wysłać Birdiego... nie wiem, wysłać go gdzieś. Nie potrzebujemy lewicowca, a on trochę podejrzanie się zachowuje, wymyślając historie. Myślę, że to on zastrzelił ocalałych z grupy.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_3">
-		<text>I guess. What do you know about Smyshlov?</text>
+		<text>Chyba tak. Co wiesz o Smyshlovie?</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_4">
-		<text>Man, no clue. We gotta find out what kind of guy he is. I ain't against talking to the professor, but I don't like that Birdie guy one bit! And when Cluster feels something's up, boy, you better believe something's up... You make the call and we'll see what happens.</text>
+		<text>Człowieku, nie mam pojęcia. Musimy dowiedzieć się, jaki to gość. Nie mam nic przeciwko rozmowie z profesorem, ale ten Birdie w ogóle mi się nie podoba! A kiedy Cluster czuje, że coś jest nie tak, chłopcze, lepiej w to uwierz... Ty podejmuj decyzję, a zobaczymy, co się stanie.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_5">
-		<text>Even if Birdie wasn't to your liking, it's better we have him on our side. That way, he's more likely to help us than hurt us.</text>
+		<text>Nawet jeśli Birdie nie przypadł ci do gustu, lepiej mieć go po naszej stronie. Wtedy bardziej prawdopodobne, że nam pomoże, niż zaszkodzi.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_6">
-		<text>Yeah, you're right about that.</text>
+		<text>Tak, masz rację co do tego.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_start_dialog_7">
-		<text>Just a minute.</text>
+		<text>Chwileczkę.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_second_dialog_0">
-		<text>How's it going in there?</text>
+		<text>Jak tam idzie?</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_second_dialog_1">
-		<text>Birdie, let's talk to the scientist.</text>
+		<text>Birdie, porozmawiajmy z naukowcem.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_second_dialog_2">
-		<text>Yeah, it's about time.</text>
+		<text>Tak, już czas.</text>
 	</string>
 
 	<string id="agr_composer_task_stalker_bird_second_dialog_3">
-		<text>Come on, start the radio.</text>
+		<text>Dawaj, włącz radio.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_after_attack_dialog_0">
-		<text>Hey, mate, this is a bit of a mess! We have to decide who to give the boxes to. It's a lot of work, but it's no use. No loot, no profit... I don't like neither Turov nor Smyshlov. And our Birdie is a fake, I've got a feeling about him.</text>
+		<text>Hej, kolego, to trochę bałagan! Musimy zdecydować, komu oddać te skrzynie. To dużo pracy, ale to nic nie daje. Bez łupu nie ma zysku... Nie lubię ani Turova ani Smyshlova. A nasz Birdie to oszust, mam takie przeczucie.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_after_attack_dialog_1">
-		<text>We can't do it alone! We should at least get to the Garbage, and then decide where to turn - to Turov or to Smyshlov.</text>
+		<text>Sami tego nie zrobimy! Powinniśmy przynajmniej dotrzeć do Śmietniska, a potem zdecydować, gdzie się udać - do Turova czy Smyshlova.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_after_attack_dialog_2">
-		<text>Then let's go!</text>
+		<text>No to chodźmy!</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_after_attack_dialog_3">
-		<text>Cluster, I was wondering why you were nicknamed Cluster.</text>
+		<text>Cluster, zastanawiałem się, dlaczego masz taki pseudonim.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_after_attack_dialog_4">
-		<text>Well, you certainly found the time! Yes, once we were walking with the guys in the Zone, and we ran into a pack of hungry rats, or tushkan they are there, in general, the hell you can not understand. So I started shooting at these rodents! They may be small, but they can do some damage. Anyway, when the wave passed, there was a lot of these rat carcasses. That's how it got attached...</text>
+		<text>No, na pewno znalazłeś czas! Tak, kiedyś szliśmy z chłopakami po Strefie i natknęliśmy się na stado głodnych szczurów, czy tushkan jak tam są, ogólnie, piekło nie do zrozumienia. Więc zacząłem strzelać do tych gryzoni! Może i są małe, ale mogą zrobić szkody. W każdym razie, gdy fala minęła, było dużo tych szczurzych padlin. Tak się to przykleiło...</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_after_attack_dialog_5">
-		<text>Heh, that makes sense. All right, let's go to the Garbage. When we get to the bend, we'll decide who'll carry the load. Don't tell Birdie yet - let him think we're going through the Garbage to Cordon.</text>
+		<text>Heh, to ma sens. Dobrze, jedźmy na Śmietnisko. Gdy dojedziemy do zakrętu, zdecydujemy, kto będzie dźwigał ładunek. Nie mów jeszcze Birdiemu - niech myśli, że jedziemy przez Śmietnisko do Kordonu.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_wait_garbage_dialog_0">
-		<text>So, what's our next move?</text>
+		<text>No to co teraz robimy?</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_wait_garbage_dialog_1">
-		<text>I'm already regretting getting involved in this case. What do you think?</text>
+		<text>Już żałuję, że w to wplątałem. Co ty na to?</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_wait_garbage_dialog_2">
-		<text>I don't know.</text>
+		<text>Nie wiem.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_wait_garbage_dialog_3">
-		<text>I'd get out of here as soon as possible. Let's go to the Cordon.</text>
+		<text>Wyszedłbym stąd jak najszybciej. Jedźmy do Kordonu.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_wait_garbage_dialog_4">
-		<text>Yeah, there's nothing else to do here. I don't want to meet Turov and his mutts.</text>
+		<text>Tak, nic więcej tu do roboty. Nie chcę spotykać Turova i jego łajdaków.</text>
 	</string>
 
 	<string id="agr_composer_task_bandit_savior_wait_garbage_dialog_5">
-		<text>Then let's move.</text>
+		<text>No to ruszajmy.</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_boss_final_dialog_0">
-		<text>Well, everyone is back alive and almost healthy. Now for the documents, to Smyshlov's.</text>
+		<text>Cóż, wszyscy wrócili żywi i prawie zdrowi. Teraz po dokumenty, do Smyshlova.</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_boss_final_dialog_1">
-		<text>I don't think he'll give them back willingly!</text>
+		<text>Nie sądzę, żeby chciał je oddać dobrowolnie!</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_boss_final_dialog_2">
-		<text>I feel the same way. But it's not my problem, you decide as you wish. But I'd prefer Smyshlov to stay alive! Go get your papers. The main thing is not to lose your way, so that Mr Vizir won't have to remind you of the guidelines and priorities.</text>
+		<text>Mam takie samo uczucie. Ale to nie mój problem, decydujcie, jak chcecie. Ale wolałbym, żeby Smyshlov pozostał przy życiu! Idźcie po swoje papiery. Najważniejsze, żebyś nie zgubił drogi, żeby pan Vizir nie musiał ci przypominać o wytycznych i priorytetach.</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_boss_final_dialog_3">
-		<text>We will try our best.</text>
+		<text>Postaramy się jak najlepiej.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_0_1">
-		<text>'Sup, commander?</text>
+		<text>Co słychać, dowódco?</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_0_2">
-		<text>Hey.</text>
+		<text>Cześć.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_0_3">
-		<text>What's up, commander?</text>
+		<text>Co słychać, dowódco?</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_1_1">
-		<text>Will you patch me up, man?</text>
+		<text>Opatrzysz mnie, człowieku?</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_1_2">
-		<text>Bye.</text>
+		<text>Do widzenia.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_2">
-		<text>On it, commander. You'll feel just like new.</text>
+		<text>Już się za to biorę, dowódco. Będziesz jak nowy.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_3">
-		<text>You kidding me? You're all right, commander.</text>
+		<text>Żartujesz? Jesteś w porządku, dowódco.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_4">
-		<text>[continue...]</text>
+		<text>[kontynuacja...]</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_5">
-		<text>There you go. Stay safe!</text>
+		<text>Proszę bardzo. Dbaj o siebie!</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_6_1">
-		<text>Thank you.</text>
+		<text>Dziękuję.</text>
 	</string>
 
 	<string id="agr_soldier_xottab_need_health_care_6_2">
-		<text>Didn't want it anyway.</text>
+		<text>I tak tego nie chciałem.</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_final_dialog_0">
-		<text>O-oh...</text>
+		<text>O-oj...</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_final_dialog_1">
-		<text>Smyshlov, are you all right?</text>
+		<text>Smyshlov, wszystko w porządku?</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_final_dialog_2">
-		<text>I'm fine! A little dizzy, but I feel much better. How about you young men?</text>
+		<text>Mam się dobrze! Trochę mi się kręci, ale czuję się o wiele lepiej. A wy, młodzi ludzie?</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_final_dialog_3">
-		<text>I've had better.</text>
+		<text>Bywało lepiej.</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_final_dialog_4">
-		<text>Come to your senses. We gotta get out of here.</text>
+		<text>Otrząśnij się. Musimy stąd wyjść.</text>
 	</string>
 
 	<string id="agr_composer_task_scientist_final_dialog_5">
-		<text>Yes, except your subject seems to be up to something....</text>
+		<text>Tak, tylko twój podopieczny wydaje się knuć coś...</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_0">
-		<text>Science, so much for the engines of progress. Almost got us all killed.</text>
+		<text>Nauka, tyle warta co silniki postępu. Prawie nas wszystkich zabiła.</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_1">
-		<text>We have to go after him! Now!</text>
+		<text>Musimy go ścigać! Teraz!</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_2">
-		<text>No, whatever you want, I've worn my body out a lot. I need to rest for a few days first, then figure out a plan of action.</text>
+		<text>Nie, cokolwiek byś chciał, bardzo zmęczyłem swoje ciało. Muszę odpocząć przez kilka dni, a potem wymyślić plan działania.</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_3">
-		<text>Then call for backup, get them to come in pursuit!</text>
+		<text>To wezwij wsparcie, niech ruszają w pościg!</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_4">
-		<text>What am I gonna tell them? A self-aware box has taken control of a zombie and is a danger to the state? They'll write me off right away, especially after the psi effect. No, Axe, you do what you want, but for now, we're going our separate ways!</text>
+		<text>Co mam im powiedzieć? Samoświadoma skrzynia przejęła kontrolę nad zombie i stanowi zagrożenie dla państwa? Od razu mnie zlekceważą, zwłaszcza po efekcie psi. Nie, Axe, rób co chcesz, ale na razie rozstajemy się!</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_5">
-		<text>What about...</text>
+		<text>A co z...</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_6">
-		<text>There's no way, just calm down. This operation is not your level, and in one with this box-master I do not recommend it either. And also, I'll put out a rumour that Cluster, a good kid, is lost in the Zone - either in an anomaly, or the controller killed him. So there you go. Maybe we'll see each other again, if the Zone wants us to. The only thing is, it's a pity I was chasing Birdie, he turned out to be a good man.</text>
+		<text>Nie ma mowy, uspokój się. Ta operacja to nie twój poziom, a w jednym z tym box-masterem też nie polecam. I jeszcze puszczę plotkę, że Cluster, dobry dzieciak, zaginął w Strefie - albo w anomalii, albo kontroler go zabił. Więc proszę bardzo. Może jeszcze się spotkamy, jeśli Strefa tego chce. Szkoda tylko, że ścigałem Birdiego, okazał się dobrym człowiekiem.</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_7">
-		<text>And thanks to you and him for covering it up. And maybe the Zone really will want our paths to cross.....</text>
+		<text>I dzięki tobie i jemu za zatuszowanie sprawy. I może Strefa naprawdę będzie chciała, żeby nasze drogi się skrzyżowały.....</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_8">
-		<text>So long, stalker. Take care.</text>
+		<text>Na razie, stalkerze. Trzymaj się.</text>
 	</string>
 
 	<string id="agr_composer_task_final_bandit_savior_final_dialog_9">
-		<text>See you later, Kucherenko...</text>
+		<text>Do zobaczenia, Kuczerenko...</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_0">
-		<text>Greetings! Are you some kind of salesman?</text>
+		<text>Pozdrawiam! Jesteś jakimś sprzedawcą?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_1">
-		<text>Hello, stalker! I'd say you're the supply man around here! What do you want? Or are you just here for a chat?</text>
+		<text>Witaj, natręcie! Powiedziałbym, że jesteś tu zaopatrzeniowcem! Czego chcesz? A może przyszedłeś tylko pogadać?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_2">
-		<text>I'll still have time to see your merchandise, but for now I'm just looking around, getting to know the locals.</text>
+		<text>Będę miał jeszcze czas, żeby obejrzeć twój towar, ale na razie tylko się rozglądam i poznaję miejscowych.</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_3">
-		<text>That's right! Connections in the Exclusion Zone are a very valuable currency. I'm Thrush, I'd like to meet you.</text>
+		<text>Zgadza się! Koneksje w Strefie Wykluczenia są bardzo cenną walutą. Jestem Thrush, chciałbym cię poznać.</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_4">
-		<text>They call me Axe! Will you tell me who you are and what you're doing here?</text>
+		<text>Mówią na mnie Topór! Powiesz mi kim jesteś i co tu robisz?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_5">
-		<text>You got it pretty much right. I'm a trader here. And the Agroprom territory is like home to me! A few years ago, we had our own base here, at the factory nearby. It was run by a stalker called Orestes. I was a trader. We traded supplies, artefacts, weapons. I could even delivery my good friends an Exoskeleton! It was a good time on the base, even though times were turbulent. 2011 - factions were fighting, almost for every abandoned place in the Zone! Sometimes it seemed to me that it was not an abnormal Zone at all, but a hot spot of some kind! Tanks and aviation were the only thing missing, by God! A lot of people died back then. I'm surprised I'm still alive. And then, I think you know what happened. It was a hell of a blowout! We pissed off the Zone. You can't just start a war in the Zone like that. It will always fight back!</text>
+		<text>Prawie wszystko się zgadza. Jestem tu handlarzem. A terytorium Agropromu jest dla mnie jak dom! Kilka lat temu mieliśmy tu własną bazę, w pobliskiej fabryce. Prowadził ją stalker o imieniu Orestes. Ja byłem handlarzem. Handlowaliśmy zaopatrzeniem, artefaktami, bronią. Mogłem nawet dostarczyć moim dobrym przyjaciołom egzoszkielet! To był dobry czas w bazie, chociaż czasy były burzliwe. 2011 - frakcje walczyły, niemal o każde opuszczone miejsce w Strefie! Czasami wydawało mi się, że to wcale nie jest nienormalna Strefa, ale jakiś gorący punkt! Brakowało tylko czołgów i lotnictwa, na Boga! Wielu ludzi wtedy zginęło. Dziwię się, że jeszcze żyję. A potem, myślę, że wiesz, co się stało. To był piekielny wybuch! Wkurzyliśmy Strefę. Nie można tak po prostu rozpocząć wojny w Strefie. Zawsze będzie się bronić!</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_6">
-		<text>What happened to your base after the blowout?</text>
+		<text>Co stało się z waszą bazą po wybuchu?</text>
 	</string>
 
 	<string id="agr_scientists_base_stalker_trader_hello_dialog_7">
-		<text>Things went bad after the big blowout. Orestes disappeared somewhere. They say he saved up some money, spit on the Zone and went to the Big Earth. And without a competent leader, the whole organisation of the base went to the same place. Stalkers scattered. I shut down my business for a while, too. So, from time to time, I sold my remnants to free stalkers, hanging around here and there. I managed to work at the scientists' bunker, at Sidor's fetch-and-deliver, at Devil on the Garbage. In short, I've been all over the place over the years. But it's not my thing, wandering around the Zone. I'm more of a merchant than a stalker. And now, fate smiled on me, I found out that scientists have organised a base on the site of the former research institute, and they are not averse to cooperate with stalkers. So I came here. I trade here now, under good security and in good conditions. I can't complain, especially after all I've been through.</text>
+		<text>Po wielkim wybuchu wszystko się popsuło. Orestes gdzieś zniknął. Mówią, że zaoszczędził trochę pieniędzy, splunął na Strefę i udał się na Wielką Ziemię. A bez kompetentnego przywódcy cała organizacja bazy udała się w to samo miejsce. Stalkerzy się rozpierzchli. Ja też na jakiś czas zamknąłem swoją działalność. Od czasu do czasu sprzedawałem więc swoje resztki wolnym stalkerom, kręcąc się tu i ówdzie. Udało mi się pracować w bunkrze naukowców, w firmie Sidora, w Devil on the Garbage. Krótko mówiąc, przez lata byłem wszędzie. Ale włóczenie się po Strefie to nie moja działka. Jestem bardziej kupcem niż stalkerem. A teraz los się do mnie uśmiechnął, dowiedziałem się, że naukowcy zorganizowali bazę na miejscu dawnego instytutu badawczego i nie mają nic przeciwko współpracy ze stalkerami. Więc przyjechałem tutaj. Teraz handluję tutaj, pod dobrą ochroną i w dobrych warunkach. Nie mogę narzekać, zwłaszcza po tym wszystkim, co przeszedłem.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_0_1">
-		<text>Don't distract from the service, rookie.</text>
+		<text>Nie odwracaj uwagi od usługi, żółtodziobie.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_0_2">
-		<text>Well, what do you want? We're guarding the base, and here you are with your questions.</text>
+		<text>Czego chcesz? Pilnujemy bazy, a ty zadajesz pytania.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_0_3">
-		<text>What do you need?</text>
+		<text>Czego potrzebujesz?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_0_4">
-		<text>Get out of here, stalker, get out of my way.</text>
+		<text>Wynoś się stąd, natręcie, zejdź mi z drogi.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_0_5">
-		<text>Well, don't shine it in front of your eyes, go where you're going.</text>
+		<text>No, nie świeć mi przed oczy, idź tam, gdzie idziesz.</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_1_1">
-		<text>Greetings, Zhuravlev!</text>
+		<text>Pozdrowienia, Zhuravlev!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_1_2">
-		<text>Greetings!</text>
+		<text>Pozdrowienia!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_1_3">
-		<text>Good day!</text>
+		<text>Dzień dobry!</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_1_4">
-		<text>How's it going, soldier?</text>
+		<text>Jak leci, żołnierzu?</text>
 	</string>
 
 	<string id="agr_scientists_base_soldiers_idle_dialog_1_5">
-		<text>Not bad.</text>
+		<text>Nieźle.</text>
 	</string>
 
 </string_table>
