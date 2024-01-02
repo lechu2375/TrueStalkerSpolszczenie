@@ -1,126 +1,126 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <string_table>
 	<string id="actor_break_dialog_3">
-		<text>Bye.</text>
+		<text>Pa.</text>
 	</string>
 	<string id="actor_break_dialog_1">
-		<text>See ya.</text>
+		<text>Do zobaczenia.</text>
 	</string>
 	<string id="actor_break_dialog_0">
-		<text>Laters.</text>
+		<text>Do zobaczenia.</text>
 	</string>
 	<string id="actor_break_dialog_2">
-		<text>Bye.</text>
+		<text>Na razie.</text>
 	</string>
 	<string id="treasure_dialog_0">
-		<text>What can you offer me?</text>
+		<text>Co możesz mi zaoferować?</text>
 	</string>
 	<string id="treasure_dialog_11">
-		<text>How much is that going to set me back?</text>
+		<text>Ile mnie to będzie kosztować?</text>
 	</string>
 	<string id="treasure_dialog_1111">
-		<text>So what's actually in there?</text>
+		<text>Co tam właściwie jest?</text>
 	</string>
 	<string id="treasure_dialog_11111">
-		<text>OK, here are the coordinates.</text>
+		<text>OK, tu są współrzędne.</text>
 	</string>
 	<string id="treasure_dialog_1112">
-		<text>Agreed.</text>
+		<text>Zgoda.</text>
 	</string>
 	<string id="treasure_dialog_11121">
-		<text>Well, come back when you have enough.</text>
+		<text>Wróć, jak będziesz miał dość.</text>
 	</string>
 	<string id="treasure_dialog_1113">
-		<text>Are you crazy? I don't have that much cash.</text>
+		<text>Zwariowałeś? Nie mam tyle gotówki.</text>
 	</string>
 	<string id="treasure_dialog_11131">
-		<text>No idea.</text>
+		<text>Nie mam pojęcia.</text>
 	</string>
 	<string id="treasure_dialog_1114">
-		<text>Nah, I'm not interested.</text>
+		<text>Nie, nie jestem zainteresowany.</text>
 	</string>
 	<string id="treasure_dialog_12">
-		<text>No, thanks.</text>
+		<text>Nie, dzięki.</text>
 	</string>
 	<string id="treasure_dialog_121">
-		<text>Up to you.</text>
+		<text>To zależy od ciebie.</text>
 	</string>
 	<string id="treasure_dialog_2">
-		<text>Nah, nothing interesting.</text>
+		<text>Nie, nic ciekawego.</text>
 	</string>
 		<string id="crowkiller_dialog_100">
-		<text>Hey, how are things? You like shooting crows? I bet you won't beat my record!</text>
+		<text>Hej, co słychać? Lubisz strzelać do wron? Założę się, że nie pobijesz mojego rekordu!</text>
 	</string>
 	<string id="crowkiller_dialog_200">
-		<text>Oh, it's you again!</text>
+		<text>To znowu ty!</text>
 	</string>
 	<string id="crowkiller_dialog_210">
-		<text>Feel like trying to beat my record again?</text>
+		<text>Znowu chcesz pobić mój rekord?</text>
 	</string>
 	<string id="crowkiller_dialog_211">
-		<text>Tell me the rules first.</text>
+		<text>Najpierw powiedz mi zasady.</text>
 	</string>
 	<string id="crowkiller_dialog_2110">
-		<text>The rules are simple: you need to kill as many crows as you can within a minute using your own weapon. Just don't wander off too far or the kills won't count.</text>
+		<text>Zasady są proste: musisz zabić jak najwięcej wron w ciągu minuty, używając własnej broni. Tylko nie oddalaj się zbyt daleko, bo zabójstwa nie będą się liczyć.</text>
 	</string>
 	<string id="crowkiller_dialog_212">
-		<text>What's the current record?</text>
+		<text>Jaki jest aktualny rekord?</text>
 	</string>
 	<string id="crowkiller_dialog_2120">
-		<text>The current record is 0</text>
+		<text>Obecny rekord wynosi 0</text>
 	</string>
 	<string id="crowkiller_dialog_213">
-		<text>Let's get shooting.</text>
+		<text>Zacznijmy strzelać.</text>
 	</string>
 	<string id="crowkiller_dialog_214">
-		<text>Nah, thanks. I'm gonna go.</text>
+		<text>Nie, dzięki. Pójdę już.</text>
 	</string>
 	<string id="crowkiller_dialog_220">
-		<text>I told you not to wander off. That doesn't count.</text>
+		<text>Mówiłem, żebyś się nie włóczył. To się nie liczy.</text>
 	</string>
 	<string id="crowkiller_dialog_230">
-		<text>Time's up.</text>
+		<text>Czas minął.</text>
 	</string>
 	<string id="crowkiller_dialog_231">
-		<text>Congratulations. You beat the record.</text>
+		<text>Gratulacje. Pobiłeś rekord.</text>
 	</string>
 	<string id="crowkiller_dialog_232">
-		<text>You failed, unfortunately.</text>
+		<text>Niestety nie udało ci się.</text>
 	</string>
 	<string id="crowkiller_dialog_300">
-		<text>Don't waste time.</text>
+		<text>Nie marnuj czasu.</text>
 	</string>
 	<string id="crowkiller_dialog_crows_per_minute">
-		<text>I'm thinking</text>
+		<text>Myślę sobie</text>
 	</string>
 	<string id="crowkiller_dialog_money_stake">
-		<text>Well, then the bet is:</text>
+		<text>No to zakład stoi:</text>
 	</string>
 	<string id="crowkiller_dialog_record_crows">
-		<text>Ah, that's a real man's choice. You need to take out as many crows as you can within a minute. The current record is:</text>
+		<text>Ach, to wybór prawdziwego mężczyzny. Musisz zlikwidować jak najwięcej wron w ciągu minuty. Obecny rekord to:</text>
 	</string>
 	<string id="crowkiller_dialog_record_stake">
-		<text>Well, given that record, the bet is:</text>
+		<text>Biorąc pod uwagę ten rekord, zakład brzmi:</text>
 	</string>
 	<string id="crowkiller_game_get_ready">
-		<text>Get ready!</text>
+		<text>Przygotuj się!</text>
 	</string>
 	<string id="crowkiller_game_runned_out">
-		<text>You left the area!</text>
+		<text>Opuściłeś teren!</text>
 	</string>
 	<string id="crowkiller_game_time_is_out">
-		<text>Time's up!</text>
+		<text>Czas minął!</text>
 	</string>
 	<string id="crowkiller_game_crows_killed">
-		<text>Crows killed:</text>
+		<text>Wrony zabite:</text>
 	</string>
 	<string id="crowkiller_game_time_start">
-		<text>Before the start:</text>
+		<text>Przed startem:</text>
 	</string>
 	<string id="crowkiller_game_time_left">
-		<text>Time left:</text>
+		<text>Pozostały czas:</text>
 	</string>
 	<string id="crowkiller_game_time_elapsed">
-		<text>Time has passed:</text>
+		<text>Czas minął:</text>
 	</string>
 </string_table>
