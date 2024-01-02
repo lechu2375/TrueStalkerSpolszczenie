@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<string_table>
+	<string id="actor_break_dialog_3">
+		<text>Pa.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>Do zobaczenia.</text>
+	</string>
+	<string id="actor_break_dialog_0">
+		<text>Do zobaczenia.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>Na razie.</text>
+	</string>
+	<string id="treasure_dialog_0">
+		<text>Co możesz mi zaoferować?</text>
+	</string>
+	<string id="treasure_dialog_11">
+		<text>Ile mnie to będzie kosztować?</text>
+	</string>
+	<string id="treasure_dialog_1111">
+		<text>Co tam właściwie jest?</text>
+	</string>
+	<string id="treasure_dialog_11111">
+		<text>OK, tu są współrzędne.</text>
+	</string>
+	<string id="treasure_dialog_1112">
+		<text>Zgoda.</text>
+	</string>
+	<string id="treasure_dialog_11121">
+		<text>Wróć, jak będziesz miał dość.</text>
+	</string>
+	<string id="treasure_dialog_1113">
+		<text>Zwariowałeś? Nie mam tyle gotówki.</text>
+	</string>
+	<string id="treasure_dialog_11131">
+		<text>Nie mam pojęcia.</text>
+	</string>
+	<string id="treasure_dialog_1114">
+		<text>Nie, nie jestem zainteresowany.</text>
+	</string>
+	<string id="treasure_dialog_12">
+		<text>Nie, dzięki.</text>
+	</string>
+	<string id="treasure_dialog_121">
+		<text>To zależy od ciebie.</text>
+	</string>
+	<string id="treasure_dialog_2">
+		<text>Nie, nic ciekawego.</text>
+	</string>
+		<string id="crowkiller_dialog_100">
+		<text>Hej, co słychać? Lubisz strzelać do wron? Założę się, że nie pobijesz mojego rekordu!</text>
+	</string>
+	<string id="crowkiller_dialog_200">
+		<text>To znowu ty!</text>
+	</string>
+	<string id="crowkiller_dialog_210">
+		<text>Znowu chcesz pobić mój rekord?</text>
+	</string>
+	<string id="crowkiller_dialog_211">
+		<text>Najpierw powiedz mi zasady.</text>
+	</string>
+	<string id="crowkiller_dialog_2110">
+		<text>Zasady są proste: musisz zabić jak najwięcej wron w ciągu minuty, używając własnej broni. Tylko nie oddalaj się zbyt daleko, bo zabójstwa nie będą się liczyć.</text>
+	</string>
+	<string id="crowkiller_dialog_212">
+		<text>Jaki jest aktualny rekord?</text>
+	</string>
+	<string id="crowkiller_dialog_2120">
+		<text>Obecny rekord wynosi 0</text>
+	</string>
+	<string id="crowkiller_dialog_213">
+		<text>Zacznijmy strzelać.</text>
+	</string>
+	<string id="crowkiller_dialog_214">
+		<text>Nie, dzięki. Pójdę już.</text>
+	</string>
+	<string id="crowkiller_dialog_220">
+		<text>Mówiłem, żebyś się nie włóczył. To się nie liczy.</text>
+	</string>
+	<string id="crowkiller_dialog_230">
+		<text>Czas minął.</text>
+	</string>
+	<string id="crowkiller_dialog_231">
+		<text>Gratulacje. Pobiłeś rekord.</text>
+	</string>
+	<string id="crowkiller_dialog_232">
+		<text>Niestety nie udało ci się.</text>
+	</string>
+	<string id="crowkiller_dialog_300">
+		<text>Nie marnuj czasu.</text>
+	</string>
+	<string id="crowkiller_dialog_crows_per_minute">
+		<text>Myślę sobie</text>
+	</string>
+	<string id="crowkiller_dialog_money_stake">
+		<text>No to zakład stoi:</text>
+	</string>
+	<string id="crowkiller_dialog_record_crows">
+		<text>Ach, to wybór prawdziwego mężczyzny. Musisz zlikwidować jak najwięcej wron w ciągu minuty. Obecny rekord to:</text>
+	</string>
+	<string id="crowkiller_dialog_record_stake">
+		<text>Biorąc pod uwagę ten rekord, zakład brzmi:</text>
+	</string>
+	<string id="crowkiller_game_get_ready">
+		<text>Przygotuj się!</text>
+	</string>
+	<string id="crowkiller_game_runned_out">
+		<text>Opuściłeś teren!</text>
+	</string>
+	<string id="crowkiller_game_time_is_out">
+		<text>Czas minął!</text>
+	</string>
+	<string id="crowkiller_game_crows_killed">
+		<text>Wrony zabite:</text>
+	</string>
+	<string id="crowkiller_game_time_start">
+		<text>Przed startem:</text>
+	</string>
+	<string id="crowkiller_game_time_left">
+		<text>Pozostały czas:</text>
+	</string>
+	<string id="crowkiller_game_time_elapsed">
+		<text>Czas minął:</text>
+	</string>
+</string_table>
